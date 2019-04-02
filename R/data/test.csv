@@ -1,0 +1,1263 @@
+A	B	C
+1	low grade fever	C0239574	Finding
+2	opioid analgesics	C0002772	Pharmacologic Substance
+3	arthritis acute	C0263678	Disease or Syndrome
+4	liver biopsy	C0193388	Diagnostic Procedure
+5	juvenile rheumatoid arthritis	C0553662	Disease or Syndrome
+6	chronic fatigue syndrome	C0015674	Disease or Syndrome
+7	gout	C0018099	Disease or Syndrome
+8	sarcoidosis	C0036202	Disease or Syndrome
+9	joint space narrowing	C1859695	Finding
+10	constitutional symptoms	C0009812	Sign or Symptom
+11	tingling	C2242996	Sign or Symptom
+12	heart problems	C0795691	Sign or Symptom
+13	power doppler ultrasound	C1960437	Diagnostic Procedure
+14	low level laser therapy	C0279027	Therapeutic or Preventive Procedure
+15	disease modifying antirheumatic drugs	C0242708	Pharmacologic Substance
+16	instability	C1444783	Finding
+17	elevated erythrocyte sedimentation rate	C0151632	Finding
+18	stress reduction	C0679002	Individual Behavior
+19	attach	C0231441	Finding
+20	female sex	C0015780	Finding
+21	herpesvirus infections	C0019372	Disease or Syndrome
+22	rheumatoid vasculitis	C0240903	Disease or Syndrome
+23	disfigurement	C1707791	Finding
+24	bed rest	C0004910	Therapeutic or Preventive Procedure
+25	anaphylaxis	C0002792	Pathologic Function
+26	new york heart association class iii	C1882086	Finding
+27	pneumococcal polysaccharide vaccine	C0305065	Pharmacologic Substance
+28	alcohol abuse	C0085762	Mental or Behavioral Dysfunction
+29	joint replacements	C0185317	Therapeutic or Preventive Procedure
+30	swollen joint	C0152031	Sign or Symptom
+31	il 6	C0021760	Amino Acid, Peptide, or Protein
+32	methotrexate	C0025677	Pharmacologic Substance
+33	nodule	C0028259	Acquired Abnormality
+34	refractory pain	C0030200	Sign or Symptom
+35	diazepam	C0012010	Pharmacologic Substance
+36	rheumatoid lung disease	C0994344	Disease or Syndrome
+37	ulnar deviation	C0449752	Finding
+38	antimalarial	C0003374	Pharmacologic Substance
+39	cord compression	C0037926	Disease or Syndrome
+40	blood tests	C0018941	Laboratory Procedure
+41	psoriasis	C0033860	Disease or Syndrome
+42	erythema nodosum	C0014743	Disease or Syndrome
+43	lymphoma	C0024299	Neoplastic Process
+44	lymphadenopathy syndrome	C0001857	Disease or Syndrome
+45	itching	C0033774	Sign or Symptom
+46	tenderness pain	C0234242	Sign or Symptom
+47	tumor necrosis factor alpha	C0041368	Amino Acid, Peptide, or Protein
+48	joint pains	C0003862	Sign or Symptom
+49	disorders inflammatory	C1290884	Disease or Syndrome
+50	hemolysis	C0019054	Pathologic Function
+51	occipital headache	C0231613	Sign or Symptom
+52	isometric exercises	C0022206	Therapeutic or Preventive Procedure
+53	chorea	C0008489	Disease or Syndrome
+54	exercise	C1522704	Therapeutic or Preventive Procedure
+55	prosthesis	C0175649	Medical Device
+56	pathologic process	C0030660	Pathologic Function
+57	joints swelling	C0152031	Sign or Symptom
+58	caring	C0150499	Individual Behavior
+59	delayed type hypersensitivity	C0020522	Pathologic Function
+60	collagenase	C0162745	Pharmacologic Substance
+61	cardiovascular disease	C0007222	Disease or Syndrome
+62	stomach problems	C2186536	Finding
+63	discoid lupus erythematosus	C0024138	Disease or Syndrome
+64	adjunctive therapy	C0677850	Therapeutic or Preventive Procedure
+65	pneumonitis	C0032285	Disease or Syndrome
+66	diclofenac sodium	C0700583	Pharmacologic Substance
+67	progressive multifocal leukoencephalopathy	C0023524	Disease or Syndrome
+68	immunosuppressants	C0021081	Pharmacologic Substance
+69	nonsteroidal anti-inflammatory drugs	C0003211	Pharmacologic Substance
+70	control symptoms	C1274136	Therapeutic or Preventive Procedure
+71	dryness of eyes	C0314719	Sign or Symptom
+72	nonmelanoma skin cancer	C0699893	Neoplastic Process
+73	solu medrol	C0701466	Pharmacologic Substance
+74	tetanus toxoid	C0305062	Immunologic Factor
+75	wrist elbow	C0695657	Therapeutic or Preventive Procedure
+76	imaging studies	C1881134	Diagnostic Procedure
+77	oral administration	C0001563	Therapeutic or Preventive Procedure
+78	range of motion exercise	C0150220	Therapeutic or Preventive Procedure
+79	myocardial dysfunction	C0340515	Pathologic Function
+80	rice	C1509547	Pharmacologic Substance
+81	concurrent therapy	C0009429	Therapeutic or Preventive Procedure
+82	activities of daily living	C2242847	Finding
+83	biologic agent	C2979985	Pharmacologic Substance
+84	devil's claw	C0771537	Pharmacologic Substance
+85	calf swelling	C0238882	Finding
+86	bone deformity	C0410719	Anatomical Abnormality
+87	autoimmune response	C0004366	Pathologic Function
+88	cyclosporine a	C0010592	Pharmacologic Substance
+89	gold salts	C0302210	Inorganic Chemical
+90	narcotic analgesics	C0027409	Pharmacologic Substance
+91	bone destruction	C0238790	Disease or Syndrome
+92	coronary heart disease	C0010068	Disease or Syndrome
+93	muscle relaxation	C0700323	Disease or Syndrome
+94	crowding	C0040433	Anatomical Abnormality
+95	mass	C0577559	Finding
+96	diphenhydramine	C0012522	Pharmacologic Substance
+97	autoimmune disease	C0004364	Disease or Syndrome
+98	occupational therapy	C1318464	Therapeutic or Preventive Procedure
+99	ejection fraction	C2700378	Finding
+100	pain joint	C0003862	Sign or Symptom
+101	pulmonary inflammation	C0032285	Disease or Syndrome
+102	alternative therapy	C0949216	Therapeutic or Preventive Procedure
+103	over the counter	C0013231	Pharmacologic Substance
+104	radicular pain	C0278147	Sign or Symptom
+105	inflammation	C0021368	Pathologic Function
+106	complete blood count	C0009555	Laboratory Procedure
+107	device	C0025080	Medical Device
+108	heart attack	C0027051	Disease or Syndrome
+109	fungal infections	C0026946	Disease or Syndrome
+110	skin fragility	C0549419	Finding
+111	cervical myelopathy	C0149645	Disease or Syndrome
+112	densitometry	C0011321	Laboratory Procedure
+113	hair loss	C0002170	Finding
+114	wrist surgery	C0187064	Therapeutic or Preventive Procedure
+115	diabetes	C0011849	Disease or Syndrome
+116	synovial biopsy	C0150887	Diagnostic Procedure
+117	regulation	C1327622	Biologic Function
+118	inflammatory response	C1155266	Pathologic Function
+119	alcohol	C0001962	Organic Chemical
+120	synovial hypertrophy	C0410574	Pathologic Function
+121	crystal arthritis	C0152087	Disease or Syndrome
+122	subcutaneous nodules	C0151811	Pathologic Function
+123	antibody production	C0003261	Biologic Function
+124	immunological tests	C0021061	Laboratory Procedure
+125	amyloidosis	C0002726	Disease or Syndrome
+126	hours of sleep	C2937255	Finding
+127	type iv hypersensitivity	C0020522	Pathologic Function
+128	bacterial antibodies	C0003244	Amino Acid, Peptide, or Protein
+129	glucocorticoids	C0017710	Hormone
+130	poor nutrition	C0162429	Disease or Syndrome
+131	soft tissue swelling	C0037580	Finding
+132	spondylitis	C0038012	Disease or Syndrome
+133	virus infection	C0042769	Disease or Syndrome
+134	liver enzymes	C0443764	Amino Acid, Peptide, or Protein
+135	hepatitis c chronic	C0524910	Disease or Syndrome
+136	duct	C1705650	Medical Device
+137	human papillomavirus	C0375016	Disease or Syndrome
+138	deep vein thrombosis	C0149871	Disease or Syndrome
+139	fasting	C0015663	Finding
+140	erythropoiesis stimulating agents	C1959590	Pharmacologic Substance
+141	intubation	C0021925	Therapeutic or Preventive Procedure
+142	preeclampsia	C0032914	Pathologic Function
+143	fingers swelling	C0239598	Finding
+144	bone mineral density	C0177804	Diagnostic Procedure
+145	phalen test positive	C0576714	Finding
+146	nasopharyngitis	C0027441	Disease or Syndrome
+147	absence of nail	C0600021	Finding
+148	lung nodules	C0034079	Finding
+149	adalimumab	C1122087	Pharmacologic Substance
+150	vomiting	C0042963	Sign or Symptom
+151	feel warm	C0582051	Finding
+152	degenerative joint disease	C0029408	Disease or Syndrome
+153	attenuated vaccine	C0042211	Pharmacologic Substance
+154	comfortable	C2364319	Finding
+155	acute inflammation	C0333361	Finding
+156	limitation of motion	C0231442	Finding
+157	tobacco use	C0543414	Individual Behavior
+158	mycoplasma	C0026936	Disease or Syndrome
+159	electromyography	C0013839	Diagnostic Procedure
+160	bronchiolitis obliterans organizing pneumonia	C0242770	Disease or Syndrome
+161	belimumab	C1723401	Amino Acid, Peptide, or Protein
+162	personal hygiene	C0564673	Individual Behavior
+163	minocycline	C0026187	Antibiotic
+164	hormone	C0019932	Hormone
+165	flexor tenosynovitis	C0744058	Disease or Syndrome
+166	fatty acid	C0015684	Lipid
+167	obstetric monitoring	C0431015	Therapeutic or Preventive Procedure
+168	source	C0449416	Finding
+169	neuropathy	C0442874	Disease or Syndrome
+170	smoking cigarettes	C0337667	Finding
+171	proliferative synovitis	C0263949	Disease or Syndrome
+172	negative test result	C1334932	Finding
+173	nonopioid analgesics	C0242937	Pharmacologic Substance
+174	shift	C2347509	Phenomenon or Process
+175	hypertrophic pulmonary osteoarthropathy	C0029412	Disease or Syndrome
+176	therapeutic intervention	C0808232	Therapeutic or Preventive Procedure
+177	hepatitis	C0019158	Disease or Syndrome
+178	autoimmunity	C0004368	Pathologic Function
+179	pulmonary toxicity	C0919924	Pathologic Function
+180	measles	C0025007	Disease or Syndrome
+181	deep heat	C0621652	Pharmacologic Substance
+182	ears problems	C0262174	Finding
+183	adverse events	C0877248	Finding
+184	naproxen	C0027396	Pharmacologic Substance
+185	liver function test	C0023901	Laboratory Procedure
+186	deep venous thrombosis	C0149871	Disease or Syndrome
+187	polyarthritis	C0162323	Disease or Syndrome
+188	renal function	C0022662	Laboratory Procedure
+189	bony ankylosis	C0332790	Acquired Abnormality
+190	thinning skin	C0423757	Finding
+191	peptides	C0030956	Amino Acid, Peptide, or Protein
+192	sulfasalazine	C0036078	Pharmacologic Substance
+193	polymyalgia rheumatica	C0032533	Disease or Syndrome
+194	cartilage damage	C0549421	Injury or Poisoning
+195	tuberculosis infection	C0041296	Disease or Syndrome
+196	cyclophosphamide	C0010583	Pharmacologic Substance
+197	plate	C1139930	Medical Device
+198	sulindac	C0038792	Pharmacologic Substance
+199	rheumatoid nodules	C0035450	Pathologic Function
+200	hypertension risk	C0559060	Finding
+201	muscle mass	C0240417	Finding
+202	joints symptoms	C1398659	Sign or Symptom
+203	pseudogout	C0033802	Disease or Syndrome
+204	hbsag	C0019168	Immunologic Factor
+205	severe progression	C1842993	Finding
+206	painful joints	C0003862	Sign or Symptom
+207	nuclear antigen	C0069115	Immunologic Factor
+208	arthrodesis	C0003881	Therapeutic or Preventive Procedure
+209	episcleritis	C0014583	Disease or Syndrome
+210	tumor necrosis factor	C0041368	Amino Acid, Peptide, or Protein
+211	blood filtering	C0180863	Medical Device
+212	antimalarial agents	C0003374	Pharmacologic Substance
+213	hepatitis b core antibody positive	C0262506	Laboratory or Test Result
+214	folic acid 1 mg	C0986175	Clinical Drug
+215	interleukin	C0021764	Amino Acid, Peptide, or Protein
+216	fusions joint	C0003881	Therapeutic or Preventive Procedure
+217	mutated citrullinated vimentin	C2599880	Amino Acid, Peptide, or Protein
+218	still's disease - juvenile rheumatoid arthritis	C0087031	Disease or Syndrome
+219	turmeric	C0077524	Pharmacologic Substance
+220	other symptoms	C3257980	Sign or Symptom
+221	gi bleeding	C0017181	Pathologic Function
+222	joint inflammation	C0003864	Disease or Syndrome
+223	syphilis	C0039128	Disease or Syndrome
+224	immune complex	C0003313	Amino Acid, Peptide, or Protein
+225	lung inflammation	C0032285	Disease or Syndrome
+226	employed	C0557351	Finding
+227	bone edema	C2609134	Finding
+228	education	C0013658	Finding
+229	hla drb1	C0122040	Amino Acid, Peptide, or Protein
+230	sustained release	C1710261	Biomedical or Dental Material
+231	latent tb	C1609538	Disease or Syndrome
+232	joint disease	C0022408	Disease or Syndrome
+233	reconstructions	C0524865	Therapeutic or Preventive Procedure
+234	cerebellar signs	C0742038	Finding
+235	neurologic disorders	C0027765	Disease or Syndrome
+236	aids	C0001175	Disease or Syndrome
+237	early therapy	C3177188	Therapeutic or Preventive Procedure
+238	rheumatic fever	C0035436	Disease or Syndrome
+239	abdominal pain	C0000737	Sign or Symptom
+240	intravenous infusion	C0021440	Therapeutic or Preventive Procedure
+241	leflunomide	C0063041	Pharmacologic Substance
+242	malaise generalized	C0231218	Sign or Symptom
+243	autoimmune disorder	C0004364	Disease or Syndrome
+244	fall risk	C1268740	Finding
+245	gm csf	C0079460	Amino Acid, Peptide, or Protein
+246	antinuclear antibody	C0003243	Amino Acid, Peptide, or Protein
+247	periarticular osteoporosis	C1859694	Finding
+248	liver	C0023899	Pharmacologic Substance
+249	transport	C1704649	Medical Device
+250	janus kinase	C0597721	Amino Acid, Peptide, or Protein
+251	hepatitis vaccinations	C0419735	Therapeutic or Preventive Procedure
+252	cold therapies	C0010412	Therapeutic or Preventive Procedure
+253	ulcer	C0041582	Pathologic Function
+254	physical therapy	C0949766	Therapeutic or Preventive Procedure
+255	paresthesia	C0030554	Sign or Symptom
+256	rheumatoid factor positive	C0151379	Laboratory or Test Result
+257	leukocytes increased	C0750426	Finding
+258	keyhole limpet hemocyanin	C0064332	Biologically Active Substance
+259	swelling bone	C1096081	Sign or Symptom
+260	neutral	C2825492	Phenomenon or Process
+261	adverse reaction	C0559546	Finding
+262	uveitis	C0042164	Disease or Syndrome
+263	health conditions	C2707292	Finding
+264	morning stiffness	C0457086	Finding
+265	rheumatoid arthritis	C0003873	Disease or Syndrome
+266	enlarged liver	C0019209	Sign or Symptom
+267	hyperextension	C0231451	Sign or Symptom
+268	matrix metalloproteinases	C0623362	Amino Acid, Peptide, or Protein
+269	culture	C0430400	Laboratory Procedure
+270	neck manipulation	C0600576	Therapeutic or Preventive Procedure
+271	etodolac	C0059865	Pharmacologic Substance
+272	omega 3	C0015689	Biologically Active Substance
+273	proteinuria	C0033687	Finding
+274	antibodies specific	C0443640	Amino Acid, Peptide, or Protein
+275	infliximab	C0666743	Amino Acid, Peptide, or Protein
+276	heat therapy	C0150611	Therapeutic or Preventive Procedure
+277	stiffness	C0427008	Sign or Symptom
+278	asthma	C0004096	Disease or Syndrome
+279	peptic ulcer disease	C0030920	Disease or Syndrome
+280	asymmetric involvement	C1840538	Finding
+281	ovarian carcinoma	C0029925	Neoplastic Process
+282	iritis	C0022081	Disease or Syndrome
+283	mucosal lesions	C2673622	Finding
+284	paraneoplastic syndromes	C0030472	Neoplastic Process
+285	prednisone intensol	C1615728	Pharmacologic Substance
+286	ketoprofen	C0022635	Pharmacologic Substance
+287	hepatitis c	C0019196	Disease or Syndrome
+288	demyelinating disorders	C0011303	Disease or Syndrome
+289	females	C0015780	Finding
+290	latent tuberculosis infection	C1609538	Disease or Syndrome
+291	muscle pain	C0231528	Sign or Symptom
+292	orthoses	C0029365	Medical Device
+293	function muscles	C0517929	Finding
+294	other elements	C2924497	Laboratory Procedure
+295	renal toxicity	C0595916	Disease or Syndrome
+296	medication effects	C1319171	Finding
+297	kidney function tests	C0022662	Laboratory Procedure
+298	ulceration	C0041582	Pathologic Function
+299	knee replacement	C0086511	Therapeutic or Preventive Procedure
+300	dry eyes	C0314719	Sign or Symptom
+301	experimental therapies	C0949266	Therapeutic or Preventive Procedure
+302	infection	C0009450	Disease or Syndrome
+303	medications therapy	C0013216	Therapeutic or Preventive Procedure
+304	relieve pain	C0722425	Pharmacologic Substance
+305	serological tests	C0036743	Laboratory Procedure
+306	folate antagonist	C0016411	Pharmacologic Substance
+307	assistive equipment	C0036605	Medical Device
+308	abnormal transaminase levels	C0850712	Finding
+309	atrial fibrillation	C0004238	Pathologic Function
+310	hammer toe	C1136179	Anatomical Abnormality
+311	heel pads	C2014453	Medical Device
+312	inflammation of the tendon sheath	C0039520	Disease or Syndrome
+313	cervical spine injury	C0432666	Injury or Poisoning
+314	water retention	C0542203	Finding
+315	leukopenia	C0023530	Disease or Syndrome
+316	injury	C0175677	Injury or Poisoning
+317	bone scanning	C0203668	Diagnostic Procedure
+318	crutch use	C0204005	Therapeutic or Preventive Procedure
+319	delayed release	C1707664	Biomedical or Dental Material
+320	hepatitis b surface antigen positive	C0149709	Laboratory or Test Result
+321	localized inflammation	C0522570	Finding
+322	hypochromic anemia	C0002884	Disease or Syndrome
+323	hbsag negative	C0919711	Laboratory or Test Result
+324	eye burning	C0234655	Sign or Symptom
+325	carpal tunnel	C0007286	Disease or Syndrome
+326	fibromyalgia	C0016053	Disease or Syndrome
+327	bleeding	C0019080	Pathologic Function
+328	cardiovascular morbidity	C1301700	Disease or Syndrome
+329	ctla 4	C0111208	Amino Acid, Peptide, or Protein
+330	pyogenic arthritis	C1692886	Disease or Syndrome
+331	result	C2825142	Finding
+332	chills and fever	C0085594	Sign or Symptom
+333	lymphotoxin	C0024320	Amino Acid, Peptide, or Protein
+334	chronic lyme disease	C2063079	Disease or Syndrome
+335	effect medications	C1319171	Finding
+336	esters	C0014898	Organic Chemical
+337	osteoporosis	C0029456	Disease or Syndrome
+338	fc receptor	C0034805	Receptor
+339	shoulder replacement	C0186623	Therapeutic or Preventive Procedure
+340	disability	C0231170	Finding
+341	thomas test	C1306619	Diagnostic Procedure
+342	history of - liver disease	C0455550	Finding
+343	presence of crystals	C0729639	Laboratory or Test Result
+344	ocular toxicity	C1262036	Injury or Poisoning
+345	mechanical arthritis	C0221567	Finding
+346	fear of falling	C0877040	Sign or Symptom
+347	pyoderma gangrenosum	C0085652	Disease or Syndrome
+348	coping	C0009967	Individual Behavior
+349	chest radiography	C0039985	Diagnostic Procedure
+350	infiltration	C0332448	Pathologic Function
+351	fibrous ankylosis	C0332791	Acquired Abnormality
+352	sleep difficulties	C0235162	Sign or Symptom
+353	rupture	C3203359	Injury or Poisoning
+354	ofatumumab	C1832027	Pharmacologic Substance
+355	control edema	C0150561	Therapeutic or Preventive Procedure
+356	cigarette smoking	C0700219	Individual Behavior
+357	chest x-ray	C0039985	Diagnostic Procedure
+358	deformities flexion	C0333068	Anatomical Abnormality
+359	candida albicans skin test	C0981368	Immunologic Factor
+360	major surgery	C0679637	Therapeutic or Preventive Procedure
+361	radiography	C1962945	Diagnostic Procedure
+362	cervical spine abnormalities	C1852464	Finding
+363	sweet's syndrome	C0085077	Disease or Syndrome
+364	tuberculin skin test	C0041290	Diagnostic Procedure
+365	membranous nephropathy	C0017665	Disease or Syndrome
+366	injection site reactions	C0151735	Pathologic Function
+367	progression of rheumatoid arthritis	C1736175	Disease or Syndrome
+368	nausea	C0027497	Sign or Symptom
+369	folic acid	C0523631	Laboratory Procedure
+370	electrical stimulation	C0013786	Therapeutic or Preventive Procedure
+371	opportunistic infections	C0029118	Disease or Syndrome
+372	visual impairment	C0042798	Disease or Syndrome
+373	peripheral neuropathy	C0031117	Disease or Syndrome
+374	muscle spasm	C0037763	Sign or Symptom
+375	motrin ib	C0699203	Pharmacologic Substance
+376	immunosuppression	C0021079	Therapeutic or Preventive Procedure
+377	sore throat	C0242429	Sign or Symptom
+378	spinal injury	C0037937	Injury or Poisoning
+379	acute pain	C0184567	Sign or Symptom
+380	tablet	C0039225	Biomedical or Dental Material
+381	absence of pain	C0234225	Finding
+382	plain radiography	C1306645	Diagnostic Procedure
+383	suppressing	C2003921	Phenomenon or Process
+384	immunologic factors	C0021054	Immunologic Factor
+385	tension	C0233494	Mental or Behavioral Dysfunction
+386	vasculitis	C0042384	Disease or Syndrome
+387	primary treatment	C1708063	Therapeutic or Preventive Procedure
+388	arthritis mutilans	C0702102	Disease or Syndrome
+389	thickened	C0205400	Finding
+390	positive rf	C1141900	Finding
+391	cytotoxic drugs	C0304497	Pharmacologic Substance
+392	proton pump inhibitor	C0358591	Pharmacologic Substance
+393	exposure	C0274281	Injury or Poisoning
+394	compliance	C1321605	Individual Behavior
+395	physical function	C0516981	Finding
+396	carpal tunnel syndrome	C0007286	Disease or Syndrome
+397	ccp antibody	C1610653	Laboratory Procedure
+398	skin cancers	C0007114	Neoplastic Process
+399	irritation	C0441723	Phenomenon or Process
+400	flexion contractures	C0333068	Anatomical Abnormality
+401	pulmonary infiltrates	C0235896	Disease or Syndrome
+402	fracture	C0016658	Injury or Poisoning
+403	toe in	C0231791	Finding
+404	fatigue	C0015672	Sign or Symptom
+405	deformities joint	C0427244	Finding
+406	glaucoma	C0017601	Disease or Syndrome
+407	omega 3 fatty acids	C0015689	Biologically Active Substance
+408	salicylates	C0036077	Pharmacologic Substance
+409	infiltrate	C0332448	Pathologic Function
+410	tenderness	C0234233	Sign or Symptom
+411	tobacco	C0040329	Pharmacologic Substance
+412	thinning	C0851184	Sign or Symptom
+413	malaise	C0231218	Sign or Symptom
+414	ankylosing spondylitis	C0038013	Disease or Syndrome
+415	separated	C0086972	Finding
+416	certolizumab	C1872109	Pharmacologic Substance
+417	gram stain	C0061856	Indicator, Reagent, or Diagnostic Aid
+418	bee venom	C0004920	Biologically Active Substance
+419	heart disease	C0018799	Disease or Syndrome
+420	repair	C0374711	Therapeutic or Preventive Procedure
+421	influenza vaccinations	C0260381	Finding
+422	meloxicam	C0083381	Pharmacologic Substance
+423	muscle atrophy	C0026846	Disease or Syndrome
+424	enzymes	C0014442	Organic Chemical
+425	moderate pain	C0278139	Sign or Symptom
+426	test results	C0456984	Finding
+427	metalloproteases	C0025543	Amino Acid, Peptide, or Protein
+428	hot packs	C0181226	Medical Device
+429	rituximab	C0393022	Pharmacologic Substance
+430	small size	C0748864	Finding
+431	blockage	C1706968	Finding
+432	flexion deformity	C0333068	Anatomical Abnormality
+433	unstable joint	C0022410	Finding
+434	cytotoxic	C0677881	Therapeutic or Preventive Procedure
+435	calcium	C0006675	Biologically Active Substance
+436	toxicity	C0600688	Injury or Poisoning
+437	interleukin 1 receptor antagonist	C1704264	Pharmacologic Substance
+438	ct scanning	C0040405	Diagnostic Procedure
+439	diclofenac potassium	C0282131	Pharmacologic Substance
+440	test result	C0456984	Finding
+441	diarrhea	C0011991	Sign or Symptom
+442	fibrin	C0015982	Pharmacologic Substance
+443	massage therapy	C0024875	Therapeutic or Preventive Procedure
+444	increased activity	C0474395	Finding
+445	orthotic devices	C0029365	Medical Device
+446	psoriatic arthritis	C0003872	Disease or Syndrome
+447	palmar fasciitis	C1963740	Disease or Syndrome
+448	fibrinoid necrosis	C0333513	Pathologic Function
+449	weight gain	C0043094	Finding
+450	magnetic resonance	C1551403	Laboratory Procedure
+451	systemic lupus	C0024141	Disease or Syndrome
+452	upper respiratory tract infection	C0041912	Disease or Syndrome
+453	inflammatory disease	C1290884	Disease or Syndrome
+454	rheumatoid factors	C0035448	Amino Acid, Peptide, or Protein
+455	granulocyte macrophage colony stimulating factor	C0079460	Amino Acid, Peptide, or Protein
+456	bone erosion	C0587240	Pathologic Function
+457	inflammatory reaction	C0021368	Pathologic Function
+458	cyclosporin	C0010592	Pharmacologic Substance
+459	arthritis	C0003864	Disease or Syndrome
+460	soft tissue mass	C0457193	Anatomical Abnormality
+461	baker cyst	C0032650	Acquired Abnormality
+462	hodgkin disease	C0019829	Neoplastic Process
+463	control disease	C0920467	Therapeutic or Preventive Procedure
+464	deviation	C1705236	Finding
+465	spleen tyrosine kinase	C0134982	Amino Acid, Peptide, or Protein
+466	necrosis	C1334928	Finding
+467	hla dr4	C0019774	Immunologic Factor
+468	cyst	C0010709	Disease or Syndrome
+469	table	C1706073	Medical Device
+470	increased platelet count	C0836924	Disease or Syndrome
+471	endurance	C0518031	Finding
+472	gi perforation	C0151664	Disease or Syndrome
+473	solid	C1378566	Biomedical or Dental Material
+474	hemochromatosis	C0018995	Disease or Syndrome
+475	sustained remission	C0814128	Finding
+476	weight bearing	C0085086	Finding
+477	deformities	C0000768	Congenital Abnormality
+478	destructive arthritis	C2348101	Disease or Syndrome
+479	biopsy	C0005558	Diagnostic Procedure
+480	guided imagery	C0150627	Therapeutic or Preventive Procedure
+481	liver disease	C0023895	Disease or Syndrome
+482	decrease joint stress	C2064705	Therapeutic or Preventive Procedure
+483	ultrasound	C0041618	Diagnostic Procedure
+484	bone marrow suppression	C0280962	Injury or Poisoning
+485	assistive devices	C0036605	Medical Device
+486	pericardial effusions	C0031039	Disease or Syndrome
+487	keratoderma	C0022579	Congenital Abnormality
+488	janus kinases	C0597721	Amino Acid, Peptide, or Protein
+489	protein antibody	C1445860	Immunologic Factor
+490	joint movement	C1572681	Clinical Drug
+491	recombinant vaccine	C0034862	Pharmacologic Substance
+492	inflammatory disorder	C1290884	Disease or Syndrome
+493	triamcinolone	C0040864	Pharmacologic Substance
+494	thrombocytopenia	C0040034	Disease or Syndrome
+495	fatal	C1705232	Finding
+496	cysts	C0010709	Disease or Syndrome
+497	complication	C0009566	Pathologic Function
+498	bone marrow toxicity	C0948168	Disease or Syndrome
+499	contraindicated	C1444657	Finding
+500	bone marrow edema	C0948162	Disease or Syndrome
+501	limb defects	C0740404	Congenital Abnormality
+502	monoclonal antibody	C0003250	Immunologic Factor
+503	joint deformity	C0427244	Finding
+504	fever	C0015967	Finding
+505	endotracheal intubation	C0021932	Therapeutic or Preventive Procedure
+506	gram staining	C0061856	Indicator, Reagent, or Diagnostic Aid
+507	subcutaneous rheumatoid nodules	C0035450	Pathologic Function
+508	naproxen sodium	C0546873	Pharmacologic Substance
+509	dermatitis	C0011603	Disease or Syndrome
+510	alopecia	C0002170	Finding
+511	radiograph	C1306645	Diagnostic Procedure
+512	plant oils	C0032085	Biologically Active Substance
+513	antiviral prophylaxis	C0877137	Therapeutic or Preventive Procedure
+514	poor prognosis	C0278252	Finding
+515	salivary glands	C0558830	Diagnostic Procedure
+516	hydroxychloroquine	C0020336	Pharmacologic Substance
+517	laboratory studies	C0681827	Laboratory Procedure
+518	gouty arthritis	C0003868	Disease or Syndrome
+519	interleukin 17	C0384648	Amino Acid, Peptide, or Protein
+520	prednisone	C0032952	Pharmacologic Substance
+521	joint pain	C0003862	Sign or Symptom
+522	chloroquine retinopathy	C0730330	Disease or Syndrome
+523	surgical intervention	C0549433	Finding
+524	early morning stiffness	C0856842	Disease or Syndrome
+525	loss of appetite	C0003123	Disease or Syndrome
+526	gold compounds	C0206108	Inorganic Chemical
+527	sjogren syndrome	C1527336	Disease or Syndrome
+528	elevated crp	C0742906	Finding
+529	reproductive risk	C1171172	Finding
+530	decreased sensation	C0020580	Finding
+531	neurologic deficits	C0521654	Finding
+532	gestational hypertension	C0340274	Disease or Syndrome
+533	herpes virus	C1440693	Immunologic Factor
+534	joint ankylosis	C0003090	Disease or Syndrome
+535	placebo	C1696465	Biomedical or Dental Material
+536	diclofenac topical	C0358504	Clinical Drug
+537	corticosteroid therapy	C0149783	Therapeutic or Preventive Procedure
+538	alcohol use	C0001948	Individual Behavior
+539	joint destruction	C0541875	Finding
+540	piroxicam	C0031990	Pharmacologic Substance
+541	adverse effects	C0879626	Pathologic Function
+542	immunosuppressant	C0021081	Pharmacologic Substance
+543	immunosuppressive	C0021081	Pharmacologic Substance
+544	interferon gamma	C0021745	Pharmacologic Substance
+545	numbness	C0020580	Finding
+546	tyrosine	C0041485	Biologically Active Substance
+547	boswellic acid	C0053959	Pharmacologic Substance
+548	prostaglandins	C0033554	Eicosanoid
+549	quadriparesis	C0270790	Disease or Syndrome
+550	leg ulcers	C0023223	Disease or Syndrome
+551	signal	C1710082	Phenomenon or Process
+552	acute phase proteins	C0001347	Biologically Active Substance
+553	supplementation	C0242297	Therapeutic or Preventive Procedure
+554	urticaria	C0042109	Disease or Syndrome
+555	pain worsens	C0853946	Sign or Symptom
+556	methylprednisolone	C0025815	Pharmacologic Substance
+557	subacute bacterial endocarditis	C0014122	Disease or Syndrome
+558	autologous stem cell transplantation	C1831743	Therapeutic or Preventive Procedure
+559	child birth	C0581135	Finding
+560	abnormal esr	C0438217	Finding
+561	felty's syndrome	C0015773	Disease or Syndrome
+562	transformation	C1510411	Pathologic Function
+563	clubbing	C0149651	Sign or Symptom
+564	pannus	C0333350	Finding
+565	anti inflammatory drug	C0003209	Pharmacologic Substance
+566	cyclosporin a	C0010592	Pharmacologic Substance
+567	hypertension	C0020538	Disease or Syndrome
+568	ginger	C0939895	Pharmacologic Substance
+569	pericarditis	C0031046	Disease or Syndrome
+570	neck deformity	C0575167	Finding
+571	smoking	C0037369	Individual Behavior
+572	severe pain	C0278140	Sign or Symptom
+573	rhinitis	C0035455	Disease or Syndrome
+574	tolmetin	C0040377	Pharmacologic Substance
+575	bacterial arthritis	C1692886	Disease or Syndrome
+576	compression	C0565514	Therapeutic or Preventive Procedure
+577	total cholesterol	C1445957	Laboratory Procedure
+578	joint tenderness	C0240094	Sign or Symptom
+579	photosensitivity	C0349506	Finding
+580	d penicillamine	C0030817	Pharmacologic Substance
+581	hand exercises	C0454330	Therapeutic or Preventive Procedure
+582	respiratory disease	C0035204	Disease or Syndrome
+583	chronic inflammatory disorder	C1290886	Disease or Syndrome
+584	aspiration	C0349707	Therapeutic or Preventive Procedure
+585	acute rheumatic fever	C0035436	Disease or Syndrome
+586	normal esr	C0427682	Finding
+587	trust	C0237935	Individual Behavior
+588	palpable purpura	C0151190	Finding
+589	leukemia	C0023418	Neoplastic Process
+590	enlargement	C1293134	Therapeutic or Preventive Procedure
+591	synovial fluid examination	C0200648	Laboratory Procedure
+592	retinal degeneration	C0035304	Disease or Syndrome
+593	anti inflammatory drugs	C0003209	Pharmacologic Substance
+594	stress	C0038435	Finding
+595	mumps rubella	C0694750	Pharmacologic Substance
+596	headache other	C0810269	Disease or Syndrome
+597	analgesic effects	C0948482	Finding
+598	polymyositis	C0085655	Disease or Syndrome
+599	palpitation	C0030252	Finding
+600	pleurisy	C0032231	Disease or Syndrome
+601	viral infections	C0042769	Disease or Syndrome
+602	tissue injury	C2136639	Finding
+603	painful	C0030193	Sign or Symptom
+604	thrombophlebitis	C0040046	Disease or Syndrome
+605	acids	C0001128	Chemical
+606	rheumatoid lung	C0994344	Disease or Syndrome
+607	limit normal	C1265570	Finding
+608	fibrin deposition	C0333565	Pathologic Function
+609	triamcinolone acetonide	C0040866	Pharmacologic Substance
+610	synovitis	C0039103	Disease or Syndrome
+611	influenza vaccine	C0021403	Pharmacologic Substance
+612	visual field testing	C0042825	Diagnostic Procedure
+613	diet light	C0419181	Therapeutic or Preventive Procedure
+614	osteoarthritis arthritis	C0029408	Disease or Syndrome
+615	shortness of breath	C0013404	Sign or Symptom
+616	oral anticoagulants	C0354604	Pharmacologic Substance
+617	spinal cord	C0153646	Neoplastic Process
+618	anakinra	C0245109	Amino Acid, Peptide, or Protein
+619	viral screening	C0419997	Therapeutic or Preventive Procedure
+620	interstitial fibrosis	C0240035	Disease or Syndrome
+621	keratoconjunctivitis sicca	C0022575	Disease or Syndrome
+622	skin manifestations	C0037285	Sign or Symptom
+623	rheumatoid disease	C0003873	Disease or Syndrome
+624	synovial fluid analysis	C0200648	Laboratory Procedure
+625	gastrointestinal toxicity	C1142499	Finding
+626	valve	C1704414	Medical Device
+627	livedo reticularis	C0085642	Disease or Syndrome
+628	intravenous infusions	C0021440	Therapeutic or Preventive Procedure
+629	varicella zoster	C0740380	Disease or Syndrome
+630	type iii hypersensitivity	C0020951	Disease or Syndrome
+631	displacement	C2347509	Phenomenon or Process
+632	connective tissue disease	C0009782	Disease or Syndrome
+633	sepsis	C0243026	Disease or Syndrome
+634	severity of symptoms	C1319166	Finding
+635	physical finding	C0311392	Finding
+636	hardening of the arteries	C0425680	Finding
+637	chronic infections	C0151317	Disease or Syndrome
+638	mmps	C0623362	Amino Acid, Peptide, or Protein
+639	felty syndrome	C0015773	Disease or Syndrome
+640	deep breathing	C1328799	Finding
+641	inflamed joints	C0574941	Finding
+642	range of motion	C0150220	Therapeutic or Preventive Procedure
+643	antagonists drugs	C0521880	Pharmacologic Substance
+644	boutonniere deformities	C0158476	Acquired Abnormality
+645	high resolution	C1719039	Laboratory Procedure
+646	muscle tenderness	C0240419	Sign or Symptom
+647	autoantibodies	C0004358	Immunologic Factor
+648	iv infusion	C0021440	Therapeutic or Preventive Procedure
+649	acute phase reactant	C0001347	Biologically Active Substance
+650	chelation therapy	C0007975	Therapeutic or Preventive Procedure
+651	articular disease	C0022408	Disease or Syndrome
+652	pain	C0030193	Sign or Symptom
+653	immunoglobulin m antibody	C1442155	Immunologic Factor
+654	adverse event	C0877248	Finding
+655	palmar erythema	C0014745	Finding
+656	early diagnosis	C0596473	Diagnostic Procedure
+657	myopathy	C0026848	Disease or Syndrome
+658	transforming growth factor beta	C0040690	Biologically Active Substance
+659	streptococcal infection	C0038395	Disease or Syndrome
+660	lower limb	C0153665	Neoplastic Process
+661	il 6 receptor	C0063717	Receptor
+662	azathioprine	C0004482	Pharmacologic Substance
+663	other therapies	C0418967	Therapeutic or Preventive Procedure
+664	joint fusion	C0003090	Disease or Syndrome
+665	remission induction	C0035052	Therapeutic or Preventive Procedure
+666	increased capillary permeability	C1382398	Finding
+667	upper gi	C0203057	Diagnostic Procedure
+668	joint instability	C0022410	Finding
+669	distraction	C1369039	Therapeutic or Preventive Procedure
+670	endocarditis	C0014118	Disease or Syndrome
+671	stimuli	C0234402	Phenomenon or Process
+672	anti cyclic citrullinated peptide	C1320283	Amino Acid, Peptide, or Protein
+673	folic acid antagonist	C0016411	Pharmacologic Substance
+674	granulomas	C0018188	Pathologic Function
+675	chronic hepatitis b	C0524909	Disease or Syndrome
+676	neutropenia	C0027947	Disease or Syndrome
+677	ability to grip	C0562125	Finding
+678	certolizumab pegol	C1872109	Pharmacologic Substance
+679	basilar invagination	C0032209	Congenital Abnormality
+680	tetracyclines	C1744619	Antibiotic
+681	chronic disease	C0008679	Disease or Syndrome
+682	il 8	C0079633	Amino Acid, Peptide, or Protein
+683	magnets therapy	C0695947	Therapeutic or Preventive Procedure
+684	vitamin d deficiency	C0042870	Disease or Syndrome
+685	tramadol	C0040610	Pharmacologic Substance
+686	aerobic exercise	C0001701	Therapeutic or Preventive Procedure
+687	lupus	C0409974	Disease or Syndrome
+688	pain relief	C0451615	Therapeutic or Preventive Procedure
+689	ischemic heart disease	C0151744	Disease or Syndrome
+690	cyclic citrullinated peptide	C1453915	Amino Acid, Peptide, or Protein
+691	alkaline phosphatase	C0002059	Amino Acid, Peptide, or Protein
+692	systemic symptoms	C2039684	Sign or Symptom
+693	influenza	C0021400	Disease or Syndrome
+694	tb exposure	C0149796	Finding
+695	chemokines	C0282554	Amino Acid, Peptide, or Protein
+696	bands	C0175723	Medical Device
+697	autoimmune diseases	C0004364	Disease or Syndrome
+698	pain management	C0002766	Therapeutic or Preventive Procedure
+699	manipulation	C0947647	Therapeutic or Preventive Procedure
+700	ultrasonography	C0041618	Diagnostic Procedure
+701	maintenance therapy	C0677908	Therapeutic or Preventive Procedure
+702	nausea or abdominal pain	C0151263	Sign or Symptom
+703	gouty tophi	C0221248	Acquired Abnormality
+704	systemic lupus erythematosus	C0024141	Disease or Syndrome
+705	connective tissue diseases	C0009782	Disease or Syndrome
+706	blocking	C0233660	Mental or Behavioral Dysfunction
+707	tense	C0233494	Mental or Behavioral Dysfunction
+708	nsaid treatment	C0746950	Therapeutic or Preventive Procedure
+709	flare	C1517205	Sign or Symptom
+710	nervous system abnormalities	C0497552	Congenital Abnormality
+711	effusion	C0013687	Pathologic Function
+712	alcohol consumption	C0001948	Individual Behavior
+713	atherosclerosis	C0004153	Disease or Syndrome
+714	exacerbated by	C0436331	Finding
+715	cardiac disease	C0018799	Disease or Syndrome
+716	acetaminophen	C0000970	Pharmacologic Substance
+717	warm autoimmune hemolytic anemia	C0272118	Disease or Syndrome
+718	anti inflammatory agents	C0003209	Pharmacologic Substance
+719	enlarged	C1293134	Therapeutic or Preventive Procedure
+720	intra articular injections	C0021488	Therapeutic or Preventive Procedure
+721	cbc with differential	C0545131	Laboratory Procedure
+722	skin symptoms	C0586407	Sign or Symptom
+723	fibrosis	C0016059	Pathologic Function
+724	urinary tract infection	C0042029	Disease or Syndrome
+725	juvenile idiopathic arthritis	C0553662	Disease or Syndrome
+726	autoimmune reaction	C0443146	Pathologic Function
+727	fatigue symptoms	C0439053	Sign or Symptom
+728	cell count	C0007584	Laboratory Procedure
+729	responsible	C1273518	Finding
+730	fc fragment	C0021032	Amino Acid, Peptide, or Protein
+731	overlap syndrome	C0410000	Disease or Syndrome
+732	curcumin	C0010467	Indicator, Reagent, or Diagnostic Aid
+733	massage	C0024875	Therapeutic or Preventive Procedure
+734	fatigue malaise	C0024528	Sign or Symptom
+735	myocardial infarction	C0027051	Disease or Syndrome
+736	hip replacement	C0392806	Therapeutic or Preventive Procedure
+737	splenomegaly	C0038002	Finding
+738	ankle replacement	C0188664	Therapeutic or Preventive Procedure
+739	angina syndrome	C0002962	Sign or Symptom
+740	anemia	C0002871	Disease or Syndrome
+741	tnf therapy	C0279936	Therapeutic or Preventive Procedure
+742	anorexia	C0003123	Disease or Syndrome
+743	depo medrol	C0057476	Pharmacologic Substance
+744	vaccination	C0042196	Therapeutic or Preventive Procedure
+745	acromioclavicular	C0695640	Therapeutic or Preventive Procedure
+746	nulliparous	C0425979	Finding
+747	salivary gland enlargement	C0020569	Pathologic Function
+748	metatarsal pad	C0461780	Medical Device
+749	monoarticular arthritis	C0746617	Disease or Syndrome
+750	macrophage activation syndrome	C1096155	Disease or Syndrome
+751	remission	C0544452	Finding
+752	gold	C0018026	Element, Ion, or Isotope
+753	chest pain	C0008031	Sign or Symptom
+754	pregnancy hypertension	C0565599	Disease or Syndrome
+755	work in	C0557351	Finding
+756	skin cancer melanoma	C0151779	Neoplastic Process
+757	nodular lesions	C1518345	Finding
+758	pneumococcal vaccine	C0358314	Pharmacologic Substance
+759	neck pain	C0007859	Sign or Symptom
+760	revision	C1527075	Therapeutic or Preventive Procedure
+761	biopsy needle	C0181960	Medical Device
+762	polyclonal hypergammaglobulinemia	C0154254	Disease or Syndrome
+763	corticosteroid	C0001617	Pharmacologic Substance
+764	specific antibody	C0443640	Amino Acid, Peptide, or Protein
+765	copper	C0009968	Biologically Active Substance
+766	green tea	C1704263	Organic Chemical
+767	wrist splint	C0728688	Medical Device
+768	lyme disease	C0024198	Disease or Syndrome
+769	heart failure	C0018801	Disease or Syndrome
+770	fish oil	C0016157	Biologically Active Substance
+771	knee replacements	C0086511	Therapeutic or Preventive Procedure
+772	vitamin d	C0042866	Pharmacologic Substance
+773	arthroplasty	C0003893	Therapeutic or Preventive Procedure
+774	combination therapy	C0009429	Therapeutic or Preventive Procedure
+775	bacterial rna	C0035692	Nucleic Acid, Nucleoside, or Nucleotide
+776	purified protein derivative	C0034131	Indicator, Reagent, or Diagnostic Aid
+777	stromelysin	C0164371	Amino Acid, Peptide, or Protein
+778	headache	C0018681	Sign or Symptom
+779	hepatotoxicity	C0235378	Injury or Poisoning
+780	blood lipids	C0596192	Lipid
+781	chronic pain	C0150055	Disease or Syndrome
+782	pharmacological treatment	C0013216	Therapeutic or Preventive Procedure
+783	traction treatment	C1562800	Therapeutic or Preventive Procedure
+784	extended release	C1707968	Biomedical or Dental Material
+785	early detection	C0596473	Diagnostic Procedure
+786	immunomodulators	C1527392	Immunologic Factor
+787	antirheumatic drug	C0003191	Pharmacologic Substance
+788	joints pain	C0003862	Sign or Symptom
+789	whipple disease	C0023788	Disease or Syndrome
+790	falls accidents	C0000924	Injury or Poisoning
+791	surgery knee	C0187769	Therapeutic or Preventive Procedure
+792	paresthesias	C0030554	Sign or Symptom
+793	diathermy	C0012002	Therapeutic or Preventive Procedure
+794	skin erythema	C0041834	Sign or Symptom
+795	synovial thickening	C0410574	Pathologic Function
+796	community acquired pneumonia	C0694549	Disease or Syndrome
+797	nodules subcutaneous	C0151811	Pathologic Function
+798	wrist x rays	C0203240	Diagnostic Procedure
+799	aspirin	C0004057	Pharmacologic Substance
+800	tenosynovitis	C0039520	Disease or Syndrome
+801	indomethacin	C0021246	Pharmacologic Substance
+802	muscle weakness	C0151786	Finding
+803	exposure to coal dust	C2220340	Finding
+804	myelopathy	C0037928	Disease or Syndrome
+805	interstitial nephritis	C0027707	Disease or Syndrome
+806	elevated cholesterol	C0020443	Disease or Syndrome
+807	fall	C0085639	Finding
+808	c reactive protein	C0006560	Amino Acid, Peptide, or Protein
+809	diabetes mellitus	C0011849	Disease or Syndrome
+810	periodontal infection	C0747479	Disease or Syndrome
+811	liver damage	C0151763	Pathologic Function
+812	interferon gamma release assays	C3178802	Laboratory Procedure
+813	activity level	C0683317	Finding
+814	native american	C0886378	Therapeutic or Preventive Procedure
+815	corneal opacity	C0010038	Finding
+816	ulnar deviation of the fingers	C0231679	Finding
+817	x rays	C1306645	Diagnostic Procedure
+818	gu symptoms	C0426317	Sign or Symptom
+819	systemic disease	C0442893	Disease or Syndrome
+820	human parvovirus	C1955655	Disease or Syndrome
+821	rheumatoid factor	C0035448	Amino Acid, Peptide, or Protein
+822	arch support	C0183685	Medical Device
+823	nabumetone	C0068334	Pharmacologic Substance
+824	movement therapy	C0454279	Therapeutic or Preventive Procedure
+825	interleukin 6	C0021760	Amino Acid, Peptide, or Protein
+826	methylprednisolone acetate	C0600901	Pharmacologic Substance
+827	antistreptolysin o titer	C1318462	Laboratory Procedure
+828	subluxation	C0332768	Injury or Poisoning
+829	antigen	C0003320	Immunologic Factor
+830	aspiration of joint	C0204854	Therapeutic or Preventive Procedure
+831	hydrocephaly	C0020255	Disease or Syndrome
+832	dissection	C0012737	Therapeutic or Preventive Procedure
+833	radiculopathy	C0700594	Disease or Syndrome
+834	inflamed joint	C0574941	Finding
+835	antimicrobial	C1136254	Pharmacologic Substance
+836	hyperprolactinemia	C0020514	Disease or Syndrome
+837	rashes	C0015230	Disease or Syndrome
+838	stomatitis	C0038362	Disease or Syndrome
+839	azulfidine en-tabs	C0699547	Pharmacologic Substance
+840	computed tomography	C0040405	Diagnostic Procedure
+841	monoclonal antibodies	C0003250	Immunologic Factor
+842	kidney problems	C0812426	Sign or Symptom
+843	vimentin	C0042666	Biologically Active Substance
+844	steroids	C0038317	Steroid
+845	color doppler ultrasound	C0474781	Diagnostic Procedure
+846	generalized weakness	C0004093	Sign or Symptom
+847	streptolysin o	C0075301	Biologically Active Substance
+848	thromboembolic events	C0857496	Pathologic Function
+849	serum complement	C2229614	Laboratory Procedure
+850	renal disease	C0022658	Disease or Syndrome
+851	disabling disease	C0596452	Disease or Syndrome
+852	worried	C0233481	Finding
+853	entrapment neuropathy	C1510429	Disease or Syndrome
+854	gait	C0016928	Finding
+855	albumin level	C0428519	Laboratory or Test Result
+856	rehabilitation	C0034991	Therapeutic or Preventive Procedure
+857	myelodysplastic syndrome	C0026986	Neoplastic Process
+858	conduction defects	C0264886	Disease or Syndrome
+859	sex hormones	C0036884	Pharmacologic Substance
+860	cytokines	C0079189	Amino Acid, Peptide, or Protein
+861	mask	C0024861	Medical Device
+862	whipple's disease	C0023788	Disease or Syndrome
+863	diffuse inflammation	C0391860	Sign or Symptom
+864	bacterial infections	C0004623	Disease or Syndrome
+865	magnetic resonance imaging	C0024485	Diagnostic Procedure
+866	polyarticular arthritis	C0694562	Disease or Syndrome
+867	sodium aurothiomalate	C0018034	Pharmacologic Substance
+868	recurrent bacterial infections	C1844383	Disease or Syndrome
+869	biosynthesis	C0220781	Biologic Function
+870	matrix metalloproteinase inhibitor	C1513016	Pharmacologic Substance
+871	dynamic splints	C0180570	Medical Device
+872	erythema	C0041834	Sign or Symptom
+873	neovascularization	C0027686	Pathologic Function
+874	mechanical irritation	C1302810	Injury or Poisoning
+875	vascularization	C0027686	Pathologic Function
+876	hand test	C0430763	Diagnostic Procedure
+877	adult onset	C1836537	Finding
+878	needle	C0027551	Medical Device
+879	body weight	C1305866	Diagnostic Procedure
+880	mononeuritis multiplex	C0151295	Disease or Syndrome
+881	antirheumatic drugs	C0003191	Pharmacologic Substance
+882	median nerve compression	C0007286	Disease or Syndrome
+883	injuries	C0175677	Injury or Poisoning
+884	multicentric reticulohistiocytosis	C0311284	Disease or Syndrome
+885	immunoglobulin fc	C0021032	Amino Acid, Peptide, or Protein
+886	acetaminophen - codeine	C2351132	Organic Chemical
+887	mixed connective tissue disease	C0026272	Disease or Syndrome
+888	difficulty	C1299586	Finding
+889	reconstructive surgery	C0524865	Therapeutic or Preventive Procedure
+890	withdrawal	C2825032	Mental or Behavioral Dysfunction
+891	total hip replacements	C0040508	Therapeutic or Preventive Procedure
+892	platelet derived growth factor	C0032200	Biologically Active Substance
+893	nodular hyperplasia	C0020510	Pathologic Function
+894	paraffin	C0030415	Lipid
+895	normal hand	C0578014	Finding
+896	swollen joints	C0152031	Sign or Symptom
+897	mhc class ii protein	C0019630	Amino Acid, Peptide, or Protein
+898	total knee replacement	C0086511	Therapeutic or Preventive Procedure
+899	fear of	C1961839	Finding
+900	distention	C0012359	Pathologic Function
+901	synovectomy	C0185304	Therapeutic or Preventive Procedure
+902	electroconvulsive therapy	C0013806	Therapeutic or Preventive Procedure
+903	long fingers	C1858091	Finding
+904	severe symptoms	C0436345	Finding
+905	regression	C0684320	Pathologic Function
+906	corticosteroids	C0001617	Pharmacologic Substance
+907	human immunoglobulin g	C2702333	Immunologic Factor
+908	dyspepsia	C0013395	Sign or Symptom
+909	hammer toes	C1136179	Anatomical Abnormality
+910	bone marrow abnormal	C0741594	Finding
+911	teratogenic effects	C0232910	Pathologic Function
+912	cell	C1704653	Medical Device
+913	boutonniere deformity	C0158476	Acquired Abnormality
+914	pleural effusions	C0032227	Disease or Syndrome
+915	immune state	C0020964	Finding
+916	active exercise	C0419117	Therapeutic or Preventive Procedure
+917	weight loss	C0043096	Finding
+918	tender pain	C0234233	Sign or Symptom
+919	preterm birth	C0151526	Pathologic Function
+920	energy conservation	C0150210	Individual Behavior
+921	swollen 28 joint count	C2711873	Finding
+922	interferon	C0021747	Pharmacologic Substance
+923	complementary and alternative medicine	C1148475	Therapeutic or Preventive Procedure
+924	exercise counseling	C0375886	Finding
+925	multiplanar reconstruction	C0445054	Therapeutic or Preventive Procedure
+926	stretching exercises	C0600080	Therapeutic or Preventive Procedure
+927	blood pressure	C1271104	Finding
+928	spinal cord compression	C0037926	Disease or Syndrome
+929	corticosteroid use	C0239126	Finding
+930	dna structure	C1511699	Nucleic Acid, Nucleoside, or Nucleotide
+931	cuff	C1706501	Medical Device
+932	rheumatoid nodulosis	C0035450	Pathologic Function
+933	immunosuppressive agents	C0021081	Pharmacologic Substance
+934	myositis	C0027121	Disease or Syndrome
+935	physiotherapy	C0949766	Therapeutic or Preventive Procedure
+936	hand splint	C0409162	Therapeutic or Preventive Procedure
+937	neck stiffness	C0151315	Sign or Symptom
+938	viral hepatitis	C0042721	Disease or Syndrome
+939	constrictive pericarditis	C0031048	Disease or Syndrome
+940	impaired renal function	C0341697	Disease or Syndrome
+941	apheresis	C0005791	Therapeutic or Preventive Procedure
+942	ulnar drift	C0231679	Finding
+943	dislocation	C0012691	Injury or Poisoning
+944	hla dr beta	C0019765	Pharmacologic Substance
+945	antibiotic therapy	C0338237	Therapeutic or Preventive Procedure
+946	systemic sclerosis	C0036421	Disease or Syndrome
+947	cervical spine instability	C0410652	Disease or Syndrome
+948	normochromic normocytic anemia	C0271899	Disease or Syndrome
+949	granulomatous inflammation	C0553697	Pathologic Function
+950	antagonist drugs	C0521880	Pharmacologic Substance
+951	hepatitis b	C0019163	Disease or Syndrome
+952	complete blood counts	C0009555	Laboratory Procedure
+953	radial deviation of the wrist	C0231675	Sign or Symptom
+954	imaging techniques	C0079595	Diagnostic Procedure
+955	myocarditis	C0027059	Disease or Syndrome
+956	regular exercise	C2243091	Therapeutic or Preventive Procedure
+957	atlantoaxial subluxation	C0263905	Anatomical Abnormality
+958	nervous	C0027769	Sign or Symptom
+959	equipment	C1523994	Medical Device
+960	bleeding heart	C1256202	Pharmacologic Substance
+961	imaging	C0079595	Diagnostic Procedure
+962	neurologic sequelae	C0746864	Finding
+963	minimizing pain	C0558256	Therapeutic or Preventive Procedure
+964	left ventricular failure	C0023212	Disease or Syndrome
+965	steroid therapy	C0149783	Therapeutic or Preventive Procedure
+966	paraffin baths	C0179240	Medical Device
+967	loss of weight	C0043096	Finding
+968	leukocytosis	C0750426	Finding
+969	substance addiction	C0038580	Mental or Behavioral Dysfunction
+970	performance	C0597198	Individual Behavior
+971	gastrointestinal irritation	C2697368	Disease or Syndrome
+972	hematocrit	C0018935	Laboratory Procedure
+973	human leukocyte antigen dr4	C0019774	Immunologic Factor
+974	fibrinogen	C0016006	Pharmacologic Substance
+975	antinuclear antibodies	C0003243	Amino Acid, Peptide, or Protein
+976	anemia of chronic disease	C0002873	Disease or Syndrome
+977	motor vehicle accidents	C0000932	Injury or Poisoning
+978	melanoma	C0025202	Neoplastic Process
+979	lack of physical activity	C0086439	Sign or Symptom
+980	acupuncture	C0394664	Therapeutic or Preventive Procedure
+981	tnf receptors	C0077503	Receptor
+982	belching	C0014724	Sign or Symptom
+983	stenosing tenosynovitis	C0158329	Disease or Syndrome
+984	clumsiness	C0233844	Sign or Symptom
+985	periosteal new bone formation	C1834344	Finding
+986	renal amyloidosis	C0268382	Disease or Syndrome
+987	pressure	C0033095	Phenomenon or Process
+988	generalized osteoporosis	C1850194	Finding
+989	false positives	C0205557	Laboratory or Test Result
+990	cyclooxygenase	C0033551	Amino Acid, Peptide, or Protein
+991	invasion	C2699153	Pathologic Function
+992	pharmacological treatments	C0013216	Therapeutic or Preventive Procedure
+993	il 2	C0021756	Amino Acid, Peptide, or Protein
+994	primary endpoint	C2986535	Indicator, Reagent, or Diagnostic Aid
+995	antibodies	C0003241	Immunologic Factor
+996	diclofenac topical gel	C1252196	Clinical Drug
+997	complement	C0009498	Amino Acid, Peptide, or Protein
+998	functional status	C0598463	Finding
+999	caplan's syndrome	C0006915	Disease or Syndrome
+1000	force	C0441722	Phenomenon or Process
+1001	abnormal test results	C0850610	Finding
+1002	joint swelling	C0152031	Sign or Symptom
+1003	topical agents	C1644713	Pharmacologic Substance
+1004	coronary disease	C0010068	Disease or Syndrome
+1005	thrombocytosis	C0836924	Disease or Syndrome
+1006	gamma linolenic acid	C0061078	Pharmacologic Substance
+1007	persistent anemia	C0741008	Disease or Syndrome
+1008	adjunctive	C2825951	Therapeutic or Preventive Procedure
+1009	absorption	C2347023	Phenomenon or Process
+1010	mycobacterium tuberculosis infection	C0041296	Disease or Syndrome
+1011	tocilizumab	C1609165	Immunologic Factor
+1012	fatty acids	C0015684	Lipid
+1013	ice packs	C0181264	Medical Device
+1014	nerve entrapment	C0917811	Disease or Syndrome
+1015	dihydroorotate dehydrogenase	C0058099	Amino Acid, Peptide, or Protein
+1016	oxaprozin	C0069739	Pharmacologic Substance
+1017	butterfly rash	C0277942	Finding
+1018	autoimmune disorders	C0004364	Disease or Syndrome
+1019	analgesics	C0002771	Pharmacologic Substance
+1020	meclofenamate	C1289957	Organic Chemical
+1021	pattern of joint involvement	C0427305	Disease or Syndrome
+1022	oral contraceptives	C0009905	Pharmacologic Substance
+1023	stroke	C0038454	Disease or Syndrome
+1024	ankylosis	C0003090	Disease or Syndrome
+1025	neurologic deficit	C0521654	Finding
+1026	back pain	C0004604	Sign or Symptom
+1027	maximum oxygen uptake	C0429693	Finding
+1028	reporting laboratory	C0200370	Laboratory Procedure
+1029	etanercept	C0717758	Pharmacologic Substance
+1030	binding sites	C0005456	Receptor
+1031	congestive heart failure	C0018802	Disease or Syndrome
+1032	evening primrose	C0874067	Pharmacologic Substance
+1033	melanoma skin cancer	C0151779	Neoplastic Process
+1034	acute phase response	C0001349	Pathologic Function
+1035	transducers	C0040661	Medical Device
+1036	triamcinolone hexacetonide	C0077004	Pharmacologic Substance
+1037	step width	C2019924	Finding
+1038	abatacept	C1619966	Amino Acid, Peptide, or Protein
+1039	decreased platelet	C0392386	Finding
+1040	septic arthritis	C1692886	Disease or Syndrome
+1041	lupus erythematosus	C0409974	Disease or Syndrome
+1042	craniofacial abnormalities	C0376634	Congenital Abnormality
+1043	insulin	C0021641	Pharmacologic Substance
+1044	nodular scleritis	C0339194	Disease or Syndrome
+1045	ibuprofen	C0020740	Pharmacologic Substance
+1046	body mass index	C0005893	Diagnostic Procedure
+1047	rapid onset	C1838994	Finding
+1048	cervical subluxation	C1846798	Finding
+1049	black currant	C0771400	Organic Chemical
+1050	therapeutic exercise	C0452240	Therapeutic or Preventive Procedure
+1051	baker cysts	C0032650	Acquired Abnormality
+1052	protein	C0033684	Biologically Active Substance
+1053	cured disease	C0679252	Finding
+1054	health behaviors	C0018687	Individual Behavior
+1055	muscle spasms	C0037763	Sign or Symptom
+1056	modified release	C1709058	Biomedical or Dental Material
+1057	joint aspiration	C0204854	Therapeutic or Preventive Procedure
+1058	tendon rupture	C0151937	Injury or Poisoning
+1059	creatinine levels	C0428279	Laboratory or Test Result
+1060	association	C0596306	Phenomenon or Process
+1061	periodic fever	C0015974	Disease or Syndrome
+1062	systemic autoimmune disease	C2895206	Disease or Syndrome
+1063	panniculitis	C0030326	Disease or Syndrome
+1064	cytotoxic t lymphocyte-associated antigen-4	C0111208	Amino Acid, Peptide, or Protein
+1065	flurbiprofen	C0016377	Pharmacologic Substance
+1066	valvular disease	C3258293	Disease or Syndrome
+1067	muscle function	C0517929	Finding
+1068	tender 28 joint count	C2711398	Finding
+1069	inflammatory arthritis	C0003864	Disease or Syndrome
+1070	joint replacement	C0185317	Therapeutic or Preventive Procedure
+1071	cancer	C0006826	Neoplastic Process
+1072	infusion	C0574032	Therapeutic or Preventive Procedure
+1073	function baseline	C0744226	Finding
+1074	pathogenesis	C0699748	Pathologic Function
+1075	bunion	C0006386	Acquired Abnormality
+1076	osteoarthritis	C0029408	Disease or Syndrome
+1077	bone marrow depression	C0151773	Disease or Syndrome
+1078	homeostasis	C0019868	Biologic Function
+1079	balance exercises	C0150219	Therapeutic or Preventive Procedure
+1080	vitamin d receptor	C0108082	Receptor
+1081	cancers ovarian	C0029925	Neoplastic Process
+1082	recurrence	C0034897	Phenomenon or Process
+1083	hepatic dysfunction	C0086565	Pathologic Function
+1084	lung disease	C0024115	Disease or Syndrome
+1085	keratitis	C0022568	Disease or Syndrome
+1086	historical	C2004062	Finding
+1087	other drugs	C2729346	Pharmacologic Substance
+1088	colorectal cancers	C1527249	Neoplastic Process
+1089	liver fibrosis	C0239946	Disease or Syndrome
+1090	codeine	C0009214	Pharmacologic Substance
+1091	eosinophilia	C0014457	Disease or Syndrome
+1092	swelling	C0038999	Finding
+1093	sputum examination	C0430356	Laboratory Procedure
+1094	destruction	C1261381	Therapeutic or Preventive Procedure
+1095	alleviate symptoms	C1274136	Therapeutic or Preventive Procedure
+1096	pathology	C0919386	Laboratory Procedure
+1097	hip surgery	C0596706	Therapeutic or Preventive Procedure
+1098	negative rheumatoid factor	C0427391	Laboratory or Test Result
+1099	il 1	C0021755	Amino Acid, Peptide, or Protein
+1100	contraception	C0700589	Therapeutic or Preventive Procedure
+1101	steroid use	C0281991	Individual Behavior
+1102	fetal growth restriction	C0015934	Pathologic Function
+1103	autoimmune reactions	C0443146	Pathologic Function
+1104	disease control	C0920467	Therapeutic or Preventive Procedure
+1105	dermatomyositis	C0011633	Disease or Syndrome
+1106	erythrocyte sedimentation rate	C0086250	Laboratory Procedure
+1107	edema	C0013604	Pathologic Function
+1108	cervical spine disease	C1290145	Disease or Syndrome
+1109	anti dna	C0282056	Amino Acid, Peptide, or Protein
+1110	palpation	C0030247	Diagnostic Procedure
+1111	activated t cells	C2174122	Laboratory Procedure
+1112	new onset	C0746890	Finding
+1113	loss of vision	C0456909	Disease or Syndrome
+1114	tissue type	C0019633	Laboratory Procedure
+1115	comfort measures	C0150521	Therapeutic or Preventive Procedure
+1116	elements	C0013879	Element, Ion, or Isotope
+1117	acute phase reactants	C0001347	Biologically Active Substance
+1118	benzodiazepines	C0005064	Pharmacologic Substance
+1119	tumor necrosis factor alpha blockers	C2170827	Organic Chemical
+1120	physical therapies	C0949766	Therapeutic or Preventive Procedure
+1121	childhood arthritis	C0553662	Disease or Syndrome
+1122	lead	C0023175	Element, Ion, or Isotope
+1123	popliteal cysts	C0032650	Acquired Abnormality
+1124	cardiovascular problems	C0850760	Sign or Symptom
+1125	celecoxib	C0538927	Pharmacologic Substance
+1126	double stranded dna	C0311474	Biologically Active Substance
+1127	occupational therapy treatment	C1318464	Therapeutic or Preventive Procedure
+1128	confusion	C0009676	Mental or Behavioral Dysfunction
+1129	transient ischemic attacks	C0007787	Disease or Syndrome
+1130	renal failure	C0341697	Disease or Syndrome
+1131	inactive disease	C0544452	Finding
+1132	malignancy	C0006826	Neoplastic Process
+1133	progressive disease	C1335499	Finding
+1134	immune complexes	C0003313	Amino Acid, Peptide, or Protein
+1135	pain disorder	C0391976	Mental or Behavioral Dysfunction
+1136	anencephaly	C0002902	Congenital Abnormality
+1137	hepatitis b core antibody	C0312631	Amino Acid, Peptide, or Protein
+1138	noninflammatory	C0442743	Finding
+1139	hla dr	C0019764	Amino Acid, Peptide, or Protein
+1140	conjunctivitis	C0009763	Disease or Syndrome
+1141	strengthening exercises	C0452260	Therapeutic or Preventive Procedure
+1142	hyperplasia	C0020507	Pathologic Function
+1143	atrophy	C0333641	Pathologic Function
+1144	hypotension	C0020649	Finding
+1145	iron	C0302583	Biologically Active Substance
+1146	glucose levels	C0428548	Laboratory or Test Result
+1147	patient died	C1306577	Finding
+1148	balanitis circinata	C0275547	Disease or Syndrome
+1149	kinases	C0031727	Amino Acid, Peptide, or Protein
+1150	pass	C2828386	Finding
+1151	diclofenac	C0012091	Pharmacologic Substance
+1152	rheumatism	C0035435	Disease or Syndrome
+1153	elevated ferritin	C0743912	Finding
+1154	cox 2 inhibitor	C1257954	Pharmacologic Substance
+1155	x ray	C1306645	Diagnostic Procedure
+1156	penicillamine	C0030817	Pharmacologic Substance
+1157	skin ulcers	C0037299	Disease or Syndrome
+1158	amplification	C1521871	Phenomenon or Process
+1159	indicator	C1704416	Medical Device
+1160	golimumab	C2353893	Amino Acid, Peptide, or Protein
+1161	balance	C0560184	Finding
+1162	herbal medicines	C2240391	Pharmacologic Substance
+1163	polyunsaturated fatty acids	C0032615	Lipid
+1164	rheumatoidlike arthritis	C0597908	Disease or Syndrome
+1165	normal results	C0459422	Finding
+1166	tendon repair	C0565350	Therapeutic or Preventive Procedure
+1167	elevated c-reactive protein	C2216280	Finding
+1168	hyperemesis	C0235250	Sign or Symptom
+1169	glasses	C0015421	Medical Device
+1170	vaccines	C0042210	Pharmacologic Substance
+1171	angina	C0002962	Sign or Symptom
+1172	autoimmune	C0443146	Pathologic Function
+1173	cox 2 inhibitors	C1257954	Pharmacologic Substance
+1174	aspirin free	C0718691	Pharmacologic Substance
+1175	malaise and fatigue	C0024528	Sign or Symptom
+1176	tnf alpha	C0041368	Amino Acid, Peptide, or Protein
+1177	patient examined	C0420616	Finding
+1178	class ii histocompatibility antigens	C0019630	Amino Acid, Peptide, or Protein
+1179	discomfort	C0234215	Sign or Symptom
+1180	dependence	C0439857	Mental or Behavioral Dysfunction
+1181	fish oils	C0016157	Biologically Active Substance
+1182	tuberculosis	C0041296	Disease or Syndrome
+1183	hyperplastic	C0020507	Pathologic Function
+1184	tolerance	C0013220	Finding
+1185	anti hbc	C0312631	Amino Acid, Peptide, or Protein
+1186	testing - visual	C0042793	Diagnostic Procedure
+1187	hallux valgus	C0018536	Anatomical Abnormality
+1188	decreased range of motion	C0231589	Finding
+1189	keratoderma blennorrhagicum	C0022594	Disease or Syndrome
+1190	quadriplegia	C0034372	Disease or Syndrome
+1191	rubella	C0035920	Disease or Syndrome
+1192	biological agents	C2979985	Pharmacologic Substance
+1193	vitamins	C0042890	Vitamin
+1194	intervention	C1948041	Therapeutic or Preventive Procedure
+1195	tenosynovectomy	C0185306	Therapeutic or Preventive Procedure
+1196	tumor necrosis factors	C0041368	Amino Acid, Peptide, or Protein
+1197	rhubarb	C0304561	Pharmacologic Substance
+1198	anginal pain	C0002962	Sign or Symptom
+1199	blood test	C0018941	Laboratory Procedure
+1200	injection site	C0221208	Injury or Poisoning
+1201	antigens	C0003320	Immunologic Factor
+1202	igm rheumatoid factor	C0487459	Amino Acid, Peptide, or Protein
+1203	capsule	C0006935	Biomedical or Dental Material
+1204	cardiac insufficiency	C0018801	Disease or Syndrome
+1205	redness	C0332575	Finding
+1206	slow disease progression	C1854494	Finding
+1207	life threatening	C2826244	Finding
+1208	rheumatoid nodule	C0035450	Pathologic Function
+1209	joint injury	C0409497	Injury or Poisoning
+1210	live vaccines	C0042211	Pharmacologic Substance
+1211	night pain	C0234255	Sign or Symptom
+1212	latex agglutination	C0023117	Laboratory Procedure
+1213	reactive arthritis	C0085435	Disease or Syndrome
+1214	hepatitis b reactivation	C1142420	Disease or Syndrome
+1215	osteopenia	C0029453	Pathologic Function
+1216	biologic therapy	C0005527	Therapeutic or Preventive Procedure
+1217	genu valgus	C0576093	Anatomical Abnormality
+1218	asymptomatic	C0231221	Finding
+1219	interleukin 1	C0021755	Amino Acid, Peptide, or Protein
+1220	serum glucose	C0202041	Laboratory Procedure
+1221	serologic tests	C0036743	Laboratory Procedure
+1222	normal erythrocyte sedimentation rate	C0427682	Finding
+1223	pregnancy normal	C0232989	Finding
+1224	iron deficiency anemia	C0162316	Disease or Syndrome
+1225	hardened arteries	C0425680	Finding
+1226	blood loss	C0019080	Pathologic Function
+1227	nail changes	C0234909	Finding
+1228	magnetic resonance imaging scan	C0024485	Diagnostic Procedure
+1229	dyspnea	C0013404	Sign or Symptom
+1230	joint problems	C0575044	Finding
+1231	abnormal liver function	C0086565	Pathologic Function
+1232	autoimmune process	C0443146	Pathologic Function
+1233	zoster vaccine	C1720918	Immunologic Factor
+1234	gonococcal arthritis	C0153216	Disease or Syndrome
+1235	retinopathy	C0035309	Disease or Syndrome
+1236	low white blood cell count	C0948695	Finding
+1237	urethritis	C0041976	Disease or Syndrome
+1238	hypogammaglobulinemia	C0086438	Disease or Syndrome
+1239	latent tuberculosis	C1609538	Disease or Syndrome
+1240	fibroblast growth factor	C0016026	Biologically Active Substance
+1241	creatinine level	C0428279	Laboratory or Test Result
+1242	fenoprofen	C0015837	Pharmacologic Substance
+1243	inflammation joints	C0003864	Disease or Syndrome
+1244	therapeutic agents	C1611640	Pharmacologic Substance
+1245	skin ulceration	C0037299	Disease or Syndrome
+1246	serology test	C0036743	Laboratory Procedure
+1247	skin lesions	C0037284	Disease or Syndrome
+1248	analgesia	C0002766	Therapeutic or Preventive Procedure
+1249	gastrointestinal	C1559265	Finding
+1250	emotional	C0849912	Finding
+1251	cyclosporine	C0010592	Pharmacologic Substance
+1252	killed vaccines	C0042212	Pharmacologic Substance
+1253	full blood count	C0009555	Laboratory Procedure
+1254	reiter's disease	C0035012	Disease or Syndrome
+1255	prednisolone	C0032950	Pharmacologic Substance
+1256	herpes zoster	C0019360	Disease or Syndrome
+1257	chronic inflammation	C0021376	Pathologic Function
+1258	contracture	C0009917	Acquired Abnormality
+1259	tissue damage	C0010957	Injury or Poisoning
+1260	enteric coated tablets	C0039226	Biomedical or Dental Material
+1261	quality of life	C0518214	Finding
+1262	small molecules	C1328819	Organic Chemical

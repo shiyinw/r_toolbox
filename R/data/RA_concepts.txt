@@ -1,0 +1,1263 @@
+Term|Code|SemanticType
+low grade fever|C0239574|Finding
+opioid analgesics|C0002772|Pharmacologic Substance
+arthritis acute|C0263678|Disease or Syndrome
+liver biopsy|C0193388|Diagnostic Procedure
+juvenile rheumatoid arthritis|C0553662|Disease or Syndrome
+chronic fatigue syndrome|C0015674|Disease or Syndrome
+gout|C0018099|Disease or Syndrome
+sarcoidosis|C0036202|Disease or Syndrome
+joint space narrowing|C1859695|Finding
+constitutional symptoms|C0009812|Sign or Symptom
+tingling|C2242996|Sign or Symptom
+heart problems|C0795691|Sign or Symptom
+power doppler ultrasound|C1960437|Diagnostic Procedure
+low level laser therapy|C0279027|Therapeutic or Preventive Procedure
+disease modifying antirheumatic drugs|C0242708|Pharmacologic Substance
+instability|C1444783|Finding
+elevated erythrocyte sedimentation rate|C0151632|Finding
+stress reduction|C0679002|Individual Behavior
+attach|C0231441|Finding
+female sex|C0015780|Finding
+herpesvirus infections|C0019372|Disease or Syndrome
+rheumatoid vasculitis|C0240903|Disease or Syndrome
+disfigurement|C1707791|Finding
+bed rest|C0004910|Therapeutic or Preventive Procedure
+anaphylaxis|C0002792|Pathologic Function
+new york heart association class iii|C1882086|Finding
+pneumococcal polysaccharide vaccine|C0305065|Pharmacologic Substance
+alcohol abuse|C0085762|Mental or Behavioral Dysfunction
+joint replacements|C0185317|Therapeutic or Preventive Procedure
+swollen joint|C0152031|Sign or Symptom
+il 6|C0021760|Amino Acid, Peptide, or Protein
+methotrexate|C0025677|Pharmacologic Substance
+nodule|C0028259|Acquired Abnormality
+refractory pain|C0030200|Sign or Symptom
+diazepam|C0012010|Pharmacologic Substance
+rheumatoid lung disease|C0994344|Disease or Syndrome
+ulnar deviation|C0449752|Finding
+antimalarial|C0003374|Pharmacologic Substance
+cord compression|C0037926|Disease or Syndrome
+blood tests|C0018941|Laboratory Procedure
+psoriasis|C0033860|Disease or Syndrome
+erythema nodosum|C0014743|Disease or Syndrome
+lymphoma|C0024299|Neoplastic Process
+lymphadenopathy syndrome|C0001857|Disease or Syndrome
+itching|C0033774|Sign or Symptom
+tenderness pain|C0234242|Sign or Symptom
+tumor necrosis factor alpha|C0041368|Amino Acid, Peptide, or Protein
+joint pains|C0003862|Sign or Symptom
+disorders inflammatory|C1290884|Disease or Syndrome
+hemolysis|C0019054|Pathologic Function
+occipital headache|C0231613|Sign or Symptom
+isometric exercises|C0022206|Therapeutic or Preventive Procedure
+chorea|C0008489|Disease or Syndrome
+exercise|C1522704|Therapeutic or Preventive Procedure
+prosthesis|C0175649|Medical Device
+pathologic process|C0030660|Pathologic Function
+joints swelling|C0152031|Sign or Symptom
+caring|C0150499|Individual Behavior
+delayed type hypersensitivity|C0020522|Pathologic Function
+collagenase|C0162745|Pharmacologic Substance
+cardiovascular disease|C0007222|Disease or Syndrome
+stomach problems|C2186536|Finding
+discoid lupus erythematosus|C0024138|Disease or Syndrome
+adjunctive therapy|C0677850|Therapeutic or Preventive Procedure
+pneumonitis|C0032285|Disease or Syndrome
+diclofenac sodium|C0700583|Pharmacologic Substance
+progressive multifocal leukoencephalopathy|C0023524|Disease or Syndrome
+immunosuppressants|C0021081|Pharmacologic Substance
+nonsteroidal anti-inflammatory drugs|C0003211|Pharmacologic Substance
+control symptoms|C1274136|Therapeutic or Preventive Procedure
+dryness of eyes|C0314719|Sign or Symptom
+nonmelanoma skin cancer|C0699893|Neoplastic Process
+solu medrol|C0701466|Pharmacologic Substance
+tetanus toxoid|C0305062|Immunologic Factor
+wrist elbow|C0695657|Therapeutic or Preventive Procedure
+imaging studies|C1881134|Diagnostic Procedure
+oral administration|C0001563|Therapeutic or Preventive Procedure
+range of motion exercise|C0150220|Therapeutic or Preventive Procedure
+myocardial dysfunction|C0340515|Pathologic Function
+rice|C1509547|Pharmacologic Substance
+concurrent therapy|C0009429|Therapeutic or Preventive Procedure
+activities of daily living|C2242847|Finding
+biologic agent|C2979985|Pharmacologic Substance
+devil's claw|C0771537|Pharmacologic Substance
+calf swelling|C0238882|Finding
+bone deformity|C0410719|Anatomical Abnormality
+autoimmune response|C0004366|Pathologic Function
+cyclosporine a|C0010592|Pharmacologic Substance
+gold salts|C0302210|Inorganic Chemical
+narcotic analgesics|C0027409|Pharmacologic Substance
+bone destruction|C0238790|Disease or Syndrome
+coronary heart disease|C0010068|Disease or Syndrome
+muscle relaxation|C0700323|Disease or Syndrome
+crowding|C0040433|Anatomical Abnormality
+mass|C0577559|Finding
+diphenhydramine|C0012522|Pharmacologic Substance
+autoimmune disease|C0004364|Disease or Syndrome
+occupational therapy|C1318464|Therapeutic or Preventive Procedure
+ejection fraction|C2700378|Finding
+pain joint|C0003862|Sign or Symptom
+pulmonary inflammation|C0032285|Disease or Syndrome
+alternative therapy|C0949216|Therapeutic or Preventive Procedure
+over the counter|C0013231|Pharmacologic Substance
+radicular pain|C0278147|Sign or Symptom
+inflammation|C0021368|Pathologic Function
+complete blood count|C0009555|Laboratory Procedure
+device|C0025080|Medical Device
+heart attack|C0027051|Disease or Syndrome
+fungal infections|C0026946|Disease or Syndrome
+skin fragility|C0549419|Finding
+cervical myelopathy|C0149645|Disease or Syndrome
+densitometry|C0011321|Laboratory Procedure
+hair loss|C0002170|Finding
+wrist surgery|C0187064|Therapeutic or Preventive Procedure
+diabetes|C0011849|Disease or Syndrome
+synovial biopsy|C0150887|Diagnostic Procedure
+regulation|C1327622|Biologic Function
+inflammatory response|C1155266|Pathologic Function
+alcohol|C0001962|Organic Chemical
+synovial hypertrophy|C0410574|Pathologic Function
+crystal arthritis|C0152087|Disease or Syndrome
+subcutaneous nodules|C0151811|Pathologic Function
+antibody production|C0003261|Biologic Function
+immunological tests|C0021061|Laboratory Procedure
+amyloidosis|C0002726|Disease or Syndrome
+hours of sleep|C2937255|Finding
+type iv hypersensitivity|C0020522|Pathologic Function
+bacterial antibodies|C0003244|Amino Acid, Peptide, or Protein
+glucocorticoids|C0017710|Hormone
+poor nutrition|C0162429|Disease or Syndrome
+soft tissue swelling|C0037580|Finding
+spondylitis|C0038012|Disease or Syndrome
+virus infection|C0042769|Disease or Syndrome
+liver enzymes|C0443764|Amino Acid, Peptide, or Protein
+hepatitis c chronic|C0524910|Disease or Syndrome
+duct|C1705650|Medical Device
+human papillomavirus|C0375016|Disease or Syndrome
+deep vein thrombosis|C0149871|Disease or Syndrome
+fasting|C0015663|Finding
+erythropoiesis stimulating agents|C1959590|Pharmacologic Substance
+intubation|C0021925|Therapeutic or Preventive Procedure
+preeclampsia|C0032914|Pathologic Function
+fingers swelling|C0239598|Finding
+bone mineral density|C0177804|Diagnostic Procedure
+phalen test positive|C0576714|Finding
+nasopharyngitis|C0027441|Disease or Syndrome
+absence of nail|C0600021|Finding
+lung nodules|C0034079|Finding
+adalimumab|C1122087|Pharmacologic Substance
+vomiting|C0042963|Sign or Symptom
+feel warm|C0582051|Finding
+degenerative joint disease|C0029408|Disease or Syndrome
+attenuated vaccine|C0042211|Pharmacologic Substance
+comfortable|C2364319|Finding
+acute inflammation|C0333361|Finding
+limitation of motion|C0231442|Finding
+tobacco use|C0543414|Individual Behavior
+mycoplasma|C0026936|Disease or Syndrome
+electromyography|C0013839|Diagnostic Procedure
+bronchiolitis obliterans organizing pneumonia|C0242770|Disease or Syndrome
+belimumab|C1723401|Amino Acid, Peptide, or Protein
+personal hygiene|C0564673|Individual Behavior
+minocycline|C0026187|Antibiotic
+hormone|C0019932|Hormone
+flexor tenosynovitis|C0744058|Disease or Syndrome
+fatty acid|C0015684|Lipid
+obstetric monitoring|C0431015|Therapeutic or Preventive Procedure
+source|C0449416|Finding
+neuropathy|C0442874|Disease or Syndrome
+smoking cigarettes|C0337667|Finding
+proliferative synovitis|C0263949|Disease or Syndrome
+negative test result|C1334932|Finding
+nonopioid analgesics|C0242937|Pharmacologic Substance
+shift|C2347509|Phenomenon or Process
+hypertrophic pulmonary osteoarthropathy|C0029412|Disease or Syndrome
+therapeutic intervention|C0808232|Therapeutic or Preventive Procedure
+hepatitis|C0019158|Disease or Syndrome
+autoimmunity|C0004368|Pathologic Function
+pulmonary toxicity|C0919924|Pathologic Function
+measles|C0025007|Disease or Syndrome
+deep heat|C0621652|Pharmacologic Substance
+ears problems|C0262174|Finding
+adverse events|C0877248|Finding
+naproxen|C0027396|Pharmacologic Substance
+liver function test|C0023901|Laboratory Procedure
+deep venous thrombosis|C0149871|Disease or Syndrome
+polyarthritis|C0162323|Disease or Syndrome
+renal function|C0022662|Laboratory Procedure
+bony ankylosis|C0332790|Acquired Abnormality
+thinning skin|C0423757|Finding
+peptides|C0030956|Amino Acid, Peptide, or Protein
+sulfasalazine|C0036078|Pharmacologic Substance
+polymyalgia rheumatica|C0032533|Disease or Syndrome
+cartilage damage|C0549421|Injury or Poisoning
+tuberculosis infection|C0041296|Disease or Syndrome
+cyclophosphamide|C0010583|Pharmacologic Substance
+plate|C1139930|Medical Device
+sulindac|C0038792|Pharmacologic Substance
+rheumatoid nodules|C0035450|Pathologic Function
+hypertension risk|C0559060|Finding
+muscle mass|C0240417|Finding
+joints symptoms|C1398659|Sign or Symptom
+pseudogout|C0033802|Disease or Syndrome
+hbsag|C0019168|Immunologic Factor
+severe progression|C1842993|Finding
+painful joints|C0003862|Sign or Symptom
+nuclear antigen|C0069115|Immunologic Factor
+arthrodesis|C0003881|Therapeutic or Preventive Procedure
+episcleritis|C0014583|Disease or Syndrome
+tumor necrosis factor|C0041368|Amino Acid, Peptide, or Protein
+blood filtering|C0180863|Medical Device
+antimalarial agents|C0003374|Pharmacologic Substance
+hepatitis b core antibody positive|C0262506|Laboratory or Test Result
+folic acid 1 mg|C0986175|Clinical Drug
+interleukin|C0021764|Amino Acid, Peptide, or Protein
+fusions joint|C0003881|Therapeutic or Preventive Procedure
+mutated citrullinated vimentin|C2599880|Amino Acid, Peptide, or Protein
+still's disease - juvenile rheumatoid arthritis|C0087031|Disease or Syndrome
+turmeric|C0077524|Pharmacologic Substance
+other symptoms|C3257980|Sign or Symptom
+gi bleeding|C0017181|Pathologic Function
+joint inflammation|C0003864|Disease or Syndrome
+syphilis|C0039128|Disease or Syndrome
+immune complex|C0003313|Amino Acid, Peptide, or Protein
+lung inflammation|C0032285|Disease or Syndrome
+employed|C0557351|Finding
+bone edema|C2609134|Finding
+education|C0013658|Finding
+hla drb1|C0122040|Amino Acid, Peptide, or Protein
+sustained release|C1710261|Biomedical or Dental Material
+latent tb|C1609538|Disease or Syndrome
+joint disease|C0022408|Disease or Syndrome
+reconstructions|C0524865|Therapeutic or Preventive Procedure
+cerebellar signs|C0742038|Finding
+neurologic disorders|C0027765|Disease or Syndrome
+aids|C0001175|Disease or Syndrome
+early therapy|C3177188|Therapeutic or Preventive Procedure
+rheumatic fever|C0035436|Disease or Syndrome
+abdominal pain|C0000737|Sign or Symptom
+intravenous infusion|C0021440|Therapeutic or Preventive Procedure
+leflunomide|C0063041|Pharmacologic Substance
+malaise generalized|C0231218|Sign or Symptom
+autoimmune disorder|C0004364|Disease or Syndrome
+fall risk|C1268740|Finding
+gm csf|C0079460|Amino Acid, Peptide, or Protein
+antinuclear antibody|C0003243|Amino Acid, Peptide, or Protein
+periarticular osteoporosis|C1859694|Finding
+liver|C0023899|Pharmacologic Substance
+transport|C1704649|Medical Device
+janus kinase|C0597721|Amino Acid, Peptide, or Protein
+hepatitis vaccinations|C0419735|Therapeutic or Preventive Procedure
+cold therapies|C0010412|Therapeutic or Preventive Procedure
+ulcer|C0041582|Pathologic Function
+physical therapy|C0949766|Therapeutic or Preventive Procedure
+paresthesia|C0030554|Sign or Symptom
+rheumatoid factor positive|C0151379|Laboratory or Test Result
+leukocytes increased|C0750426|Finding
+keyhole limpet hemocyanin|C0064332|Biologically Active Substance
+swelling bone|C1096081|Sign or Symptom
+neutral|C2825492|Phenomenon or Process
+adverse reaction|C0559546|Finding
+uveitis|C0042164|Disease or Syndrome
+health conditions|C2707292|Finding
+morning stiffness|C0457086|Finding
+rheumatoid arthritis|C0003873|Disease or Syndrome
+enlarged liver|C0019209|Sign or Symptom
+hyperextension|C0231451|Sign or Symptom
+matrix metalloproteinases|C0623362|Amino Acid, Peptide, or Protein
+culture|C0430400|Laboratory Procedure
+neck manipulation|C0600576|Therapeutic or Preventive Procedure
+etodolac|C0059865|Pharmacologic Substance
+omega 3|C0015689|Biologically Active Substance
+proteinuria|C0033687|Finding
+antibodies specific|C0443640|Amino Acid, Peptide, or Protein
+infliximab|C0666743|Amino Acid, Peptide, or Protein
+heat therapy|C0150611|Therapeutic or Preventive Procedure
+stiffness|C0427008|Sign or Symptom
+asthma|C0004096|Disease or Syndrome
+peptic ulcer disease|C0030920|Disease or Syndrome
+asymmetric involvement|C1840538|Finding
+ovarian carcinoma|C0029925|Neoplastic Process
+iritis|C0022081|Disease or Syndrome
+mucosal lesions|C2673622|Finding
+paraneoplastic syndromes|C0030472|Neoplastic Process
+prednisone intensol|C1615728|Pharmacologic Substance
+ketoprofen|C0022635|Pharmacologic Substance
+hepatitis c|C0019196|Disease or Syndrome
+demyelinating disorders|C0011303|Disease or Syndrome
+females|C0015780|Finding
+latent tuberculosis infection|C1609538|Disease or Syndrome
+muscle pain|C0231528|Sign or Symptom
+orthoses|C0029365|Medical Device
+function muscles|C0517929|Finding
+other elements|C2924497|Laboratory Procedure
+renal toxicity|C0595916|Disease or Syndrome
+medication effects|C1319171|Finding
+kidney function tests|C0022662|Laboratory Procedure
+ulceration|C0041582|Pathologic Function
+knee replacement|C0086511|Therapeutic or Preventive Procedure
+dry eyes|C0314719|Sign or Symptom
+experimental therapies|C0949266|Therapeutic or Preventive Procedure
+infection|C0009450|Disease or Syndrome
+medications therapy|C0013216|Therapeutic or Preventive Procedure
+relieve pain|C0722425|Pharmacologic Substance
+serological tests|C0036743|Laboratory Procedure
+folate antagonist|C0016411|Pharmacologic Substance
+assistive equipment|C0036605|Medical Device
+abnormal transaminase levels|C0850712|Finding
+atrial fibrillation|C0004238|Pathologic Function
+hammer toe|C1136179|Anatomical Abnormality
+heel pads|C2014453|Medical Device
+inflammation of the tendon sheath|C0039520|Disease or Syndrome
+cervical spine injury|C0432666|Injury or Poisoning
+water retention|C0542203|Finding
+leukopenia|C0023530|Disease or Syndrome
+injury|C0175677|Injury or Poisoning
+bone scanning|C0203668|Diagnostic Procedure
+crutch use|C0204005|Therapeutic or Preventive Procedure
+delayed release|C1707664|Biomedical or Dental Material
+hepatitis b surface antigen positive|C0149709|Laboratory or Test Result
+localized inflammation|C0522570|Finding
+hypochromic anemia|C0002884|Disease or Syndrome
+hbsag negative|C0919711|Laboratory or Test Result
+eye burning|C0234655|Sign or Symptom
+carpal tunnel|C0007286|Disease or Syndrome
+fibromyalgia|C0016053|Disease or Syndrome
+bleeding|C0019080|Pathologic Function
+cardiovascular morbidity|C1301700|Disease or Syndrome
+ctla 4|C0111208|Amino Acid, Peptide, or Protein
+pyogenic arthritis|C1692886|Disease or Syndrome
+result|C2825142|Finding
+chills and fever|C0085594|Sign or Symptom
+lymphotoxin|C0024320|Amino Acid, Peptide, or Protein
+chronic lyme disease|C2063079|Disease or Syndrome
+effect medications|C1319171|Finding
+esters|C0014898|Organic Chemical
+osteoporosis|C0029456|Disease or Syndrome
+fc receptor|C0034805|Receptor
+shoulder replacement|C0186623|Therapeutic or Preventive Procedure
+disability|C0231170|Finding
+thomas test|C1306619|Diagnostic Procedure
+history of - liver disease|C0455550|Finding
+presence of crystals|C0729639|Laboratory or Test Result
+ocular toxicity|C1262036|Injury or Poisoning
+mechanical arthritis|C0221567|Finding
+fear of falling|C0877040|Sign or Symptom
+pyoderma gangrenosum|C0085652|Disease or Syndrome
+coping|C0009967|Individual Behavior
+chest radiography|C0039985|Diagnostic Procedure
+infiltration|C0332448|Pathologic Function
+fibrous ankylosis|C0332791|Acquired Abnormality
+sleep difficulties|C0235162|Sign or Symptom
+rupture|C3203359|Injury or Poisoning
+ofatumumab|C1832027|Pharmacologic Substance
+control edema|C0150561|Therapeutic or Preventive Procedure
+cigarette smoking|C0700219|Individual Behavior
+chest x-ray|C0039985|Diagnostic Procedure
+deformities flexion|C0333068|Anatomical Abnormality
+candida albicans skin test|C0981368|Immunologic Factor
+major surgery|C0679637|Therapeutic or Preventive Procedure
+radiography|C1962945|Diagnostic Procedure
+cervical spine abnormalities|C1852464|Finding
+sweet's syndrome|C0085077|Disease or Syndrome
+tuberculin skin test|C0041290|Diagnostic Procedure
+membranous nephropathy|C0017665|Disease or Syndrome
+injection site reactions|C0151735|Pathologic Function
+progression of rheumatoid arthritis|C1736175|Disease or Syndrome
+nausea|C0027497|Sign or Symptom
+folic acid|C0523631|Laboratory Procedure
+electrical stimulation|C0013786|Therapeutic or Preventive Procedure
+opportunistic infections|C0029118|Disease or Syndrome
+visual impairment|C0042798|Disease or Syndrome
+peripheral neuropathy|C0031117|Disease or Syndrome
+muscle spasm|C0037763|Sign or Symptom
+motrin ib|C0699203|Pharmacologic Substance
+immunosuppression|C0021079|Therapeutic or Preventive Procedure
+sore throat|C0242429|Sign or Symptom
+spinal injury|C0037937|Injury or Poisoning
+acute pain|C0184567|Sign or Symptom
+tablet|C0039225|Biomedical or Dental Material
+absence of pain|C0234225|Finding
+plain radiography|C1306645|Diagnostic Procedure
+suppressing|C2003921|Phenomenon or Process
+immunologic factors|C0021054|Immunologic Factor
+tension|C0233494|Mental or Behavioral Dysfunction
+vasculitis|C0042384|Disease or Syndrome
+primary treatment|C1708063|Therapeutic or Preventive Procedure
+arthritis mutilans|C0702102|Disease or Syndrome
+thickened|C0205400|Finding
+positive rf|C1141900|Finding
+cytotoxic drugs|C0304497|Pharmacologic Substance
+proton pump inhibitor|C0358591|Pharmacologic Substance
+exposure|C0274281|Injury or Poisoning
+compliance|C1321605|Individual Behavior
+physical function|C0516981|Finding
+carpal tunnel syndrome|C0007286|Disease or Syndrome
+ccp antibody|C1610653|Laboratory Procedure
+skin cancers|C0007114|Neoplastic Process
+irritation|C0441723|Phenomenon or Process
+flexion contractures|C0333068|Anatomical Abnormality
+pulmonary infiltrates|C0235896|Disease or Syndrome
+fracture|C0016658|Injury or Poisoning
+toe in|C0231791|Finding
+fatigue|C0015672|Sign or Symptom
+deformities joint|C0427244|Finding
+glaucoma|C0017601|Disease or Syndrome
+omega 3 fatty acids|C0015689|Biologically Active Substance
+salicylates|C0036077|Pharmacologic Substance
+infiltrate|C0332448|Pathologic Function
+tenderness|C0234233|Sign or Symptom
+tobacco|C0040329|Pharmacologic Substance
+thinning|C0851184|Sign or Symptom
+malaise|C0231218|Sign or Symptom
+ankylosing spondylitis|C0038013|Disease or Syndrome
+separated|C0086972|Finding
+certolizumab|C1872109|Pharmacologic Substance
+gram stain|C0061856|Indicator, Reagent, or Diagnostic Aid
+bee venom|C0004920|Biologically Active Substance
+heart disease|C0018799|Disease or Syndrome
+repair|C0374711|Therapeutic or Preventive Procedure
+influenza vaccinations|C0260381|Finding
+meloxicam|C0083381|Pharmacologic Substance
+muscle atrophy|C0026846|Disease or Syndrome
+enzymes|C0014442|Organic Chemical
+moderate pain|C0278139|Sign or Symptom
+test results|C0456984|Finding
+metalloproteases|C0025543|Amino Acid, Peptide, or Protein
+hot packs|C0181226|Medical Device
+rituximab|C0393022|Pharmacologic Substance
+small size|C0748864|Finding
+blockage|C1706968|Finding
+flexion deformity|C0333068|Anatomical Abnormality
+unstable joint|C0022410|Finding
+cytotoxic|C0677881|Therapeutic or Preventive Procedure
+calcium|C0006675|Biologically Active Substance
+toxicity|C0600688|Injury or Poisoning
+interleukin 1 receptor antagonist|C1704264|Pharmacologic Substance
+ct scanning|C0040405|Diagnostic Procedure
+diclofenac potassium|C0282131|Pharmacologic Substance
+test result|C0456984|Finding
+diarrhea|C0011991|Sign or Symptom
+fibrin|C0015982|Pharmacologic Substance
+massage therapy|C0024875|Therapeutic or Preventive Procedure
+increased activity|C0474395|Finding
+orthotic devices|C0029365|Medical Device
+psoriatic arthritis|C0003872|Disease or Syndrome
+palmar fasciitis|C1963740|Disease or Syndrome
+fibrinoid necrosis|C0333513|Pathologic Function
+weight gain|C0043094|Finding
+magnetic resonance|C1551403|Laboratory Procedure
+systemic lupus|C0024141|Disease or Syndrome
+upper respiratory tract infection|C0041912|Disease or Syndrome
+inflammatory disease|C1290884|Disease or Syndrome
+rheumatoid factors|C0035448|Amino Acid, Peptide, or Protein
+granulocyte macrophage colony stimulating factor|C0079460|Amino Acid, Peptide, or Protein
+bone erosion|C0587240|Pathologic Function
+inflammatory reaction|C0021368|Pathologic Function
+cyclosporin|C0010592|Pharmacologic Substance
+arthritis|C0003864|Disease or Syndrome
+soft tissue mass|C0457193|Anatomical Abnormality
+baker cyst|C0032650|Acquired Abnormality
+hodgkin disease|C0019829|Neoplastic Process
+control disease|C0920467|Therapeutic or Preventive Procedure
+deviation|C1705236|Finding
+spleen tyrosine kinase|C0134982|Amino Acid, Peptide, or Protein
+necrosis|C1334928|Finding
+hla dr4|C0019774|Immunologic Factor
+cyst|C0010709|Disease or Syndrome
+table|C1706073|Medical Device
+increased platelet count|C0836924|Disease or Syndrome
+endurance|C0518031|Finding
+gi perforation|C0151664|Disease or Syndrome
+solid|C1378566|Biomedical or Dental Material
+hemochromatosis|C0018995|Disease or Syndrome
+sustained remission|C0814128|Finding
+weight bearing|C0085086|Finding
+deformities|C0000768|Congenital Abnormality
+destructive arthritis|C2348101|Disease or Syndrome
+biopsy|C0005558|Diagnostic Procedure
+guided imagery|C0150627|Therapeutic or Preventive Procedure
+liver disease|C0023895|Disease or Syndrome
+decrease joint stress|C2064705|Therapeutic or Preventive Procedure
+ultrasound|C0041618|Diagnostic Procedure
+bone marrow suppression|C0280962|Injury or Poisoning
+assistive devices|C0036605|Medical Device
+pericardial effusions|C0031039|Disease or Syndrome
+keratoderma|C0022579|Congenital Abnormality
+janus kinases|C0597721|Amino Acid, Peptide, or Protein
+protein antibody|C1445860|Immunologic Factor
+joint movement|C1572681|Clinical Drug
+recombinant vaccine|C0034862|Pharmacologic Substance
+inflammatory disorder|C1290884|Disease or Syndrome
+triamcinolone|C0040864|Pharmacologic Substance
+thrombocytopenia|C0040034|Disease or Syndrome
+fatal|C1705232|Finding
+cysts|C0010709|Disease or Syndrome
+complication|C0009566|Pathologic Function
+bone marrow toxicity|C0948168|Disease or Syndrome
+contraindicated|C1444657|Finding
+bone marrow edema|C0948162|Disease or Syndrome
+limb defects|C0740404|Congenital Abnormality
+monoclonal antibody|C0003250|Immunologic Factor
+joint deformity|C0427244|Finding
+fever|C0015967|Finding
+endotracheal intubation|C0021932|Therapeutic or Preventive Procedure
+gram staining|C0061856|Indicator, Reagent, or Diagnostic Aid
+subcutaneous rheumatoid nodules|C0035450|Pathologic Function
+naproxen sodium|C0546873|Pharmacologic Substance
+dermatitis|C0011603|Disease or Syndrome
+alopecia|C0002170|Finding
+radiograph|C1306645|Diagnostic Procedure
+plant oils|C0032085|Biologically Active Substance
+antiviral prophylaxis|C0877137|Therapeutic or Preventive Procedure
+poor prognosis|C0278252|Finding
+salivary glands|C0558830|Diagnostic Procedure
+hydroxychloroquine|C0020336|Pharmacologic Substance
+laboratory studies|C0681827|Laboratory Procedure
+gouty arthritis|C0003868|Disease or Syndrome
+interleukin 17|C0384648|Amino Acid, Peptide, or Protein
+prednisone|C0032952|Pharmacologic Substance
+joint pain|C0003862|Sign or Symptom
+chloroquine retinopathy|C0730330|Disease or Syndrome
+surgical intervention|C0549433|Finding
+early morning stiffness|C0856842|Disease or Syndrome
+loss of appetite|C0003123|Disease or Syndrome
+gold compounds|C0206108|Inorganic Chemical
+sjogren syndrome|C1527336|Disease or Syndrome
+elevated crp|C0742906|Finding
+reproductive risk|C1171172|Finding
+decreased sensation|C0020580|Finding
+neurologic deficits|C0521654|Finding
+gestational hypertension|C0340274|Disease or Syndrome
+herpes virus|C1440693|Immunologic Factor
+joint ankylosis|C0003090|Disease or Syndrome
+placebo|C1696465|Biomedical or Dental Material
+diclofenac topical|C0358504|Clinical Drug
+corticosteroid therapy|C0149783|Therapeutic or Preventive Procedure
+alcohol use|C0001948|Individual Behavior
+joint destruction|C0541875|Finding
+piroxicam|C0031990|Pharmacologic Substance
+adverse effects|C0879626|Pathologic Function
+immunosuppressant|C0021081|Pharmacologic Substance
+immunosuppressive|C0021081|Pharmacologic Substance
+interferon gamma|C0021745|Pharmacologic Substance
+numbness|C0020580|Finding
+tyrosine|C0041485|Biologically Active Substance
+boswellic acid|C0053959|Pharmacologic Substance
+prostaglandins|C0033554|Eicosanoid
+quadriparesis|C0270790|Disease or Syndrome
+leg ulcers|C0023223|Disease or Syndrome
+signal|C1710082|Phenomenon or Process
+acute phase proteins|C0001347|Biologically Active Substance
+supplementation|C0242297|Therapeutic or Preventive Procedure
+urticaria|C0042109|Disease or Syndrome
+pain worsens|C0853946|Sign or Symptom
+methylprednisolone|C0025815|Pharmacologic Substance
+subacute bacterial endocarditis|C0014122|Disease or Syndrome
+autologous stem cell transplantation|C1831743|Therapeutic or Preventive Procedure
+child birth|C0581135|Finding
+abnormal esr|C0438217|Finding
+felty's syndrome|C0015773|Disease or Syndrome
+transformation|C1510411|Pathologic Function
+clubbing|C0149651|Sign or Symptom
+pannus|C0333350|Finding
+anti inflammatory drug|C0003209|Pharmacologic Substance
+cyclosporin a|C0010592|Pharmacologic Substance
+hypertension|C0020538|Disease or Syndrome
+ginger|C0939895|Pharmacologic Substance
+pericarditis|C0031046|Disease or Syndrome
+neck deformity|C0575167|Finding
+smoking|C0037369|Individual Behavior
+severe pain|C0278140|Sign or Symptom
+rhinitis|C0035455|Disease or Syndrome
+tolmetin|C0040377|Pharmacologic Substance
+bacterial arthritis|C1692886|Disease or Syndrome
+compression|C0565514|Therapeutic or Preventive Procedure
+total cholesterol|C1445957|Laboratory Procedure
+joint tenderness|C0240094|Sign or Symptom
+photosensitivity|C0349506|Finding
+d penicillamine|C0030817|Pharmacologic Substance
+hand exercises|C0454330|Therapeutic or Preventive Procedure
+respiratory disease|C0035204|Disease or Syndrome
+chronic inflammatory disorder|C1290886|Disease or Syndrome
+aspiration|C0349707|Therapeutic or Preventive Procedure
+acute rheumatic fever|C0035436|Disease or Syndrome
+normal esr|C0427682|Finding
+trust|C0237935|Individual Behavior
+palpable purpura|C0151190|Finding
+leukemia|C0023418|Neoplastic Process
+enlargement|C1293134|Therapeutic or Preventive Procedure
+synovial fluid examination|C0200648|Laboratory Procedure
+retinal degeneration|C0035304|Disease or Syndrome
+anti inflammatory drugs|C0003209|Pharmacologic Substance
+stress|C0038435|Finding
+mumps rubella|C0694750|Pharmacologic Substance
+headache other|C0810269|Disease or Syndrome
+analgesic effects|C0948482|Finding
+polymyositis|C0085655|Disease or Syndrome
+palpitation|C0030252|Finding
+pleurisy|C0032231|Disease or Syndrome
+viral infections|C0042769|Disease or Syndrome
+tissue injury|C2136639|Finding
+painful|C0030193|Sign or Symptom
+thrombophlebitis|C0040046|Disease or Syndrome
+acids|C0001128|Chemical
+rheumatoid lung|C0994344|Disease or Syndrome
+limit normal|C1265570|Finding
+fibrin deposition|C0333565|Pathologic Function
+triamcinolone acetonide|C0040866|Pharmacologic Substance
+synovitis|C0039103|Disease or Syndrome
+influenza vaccine|C0021403|Pharmacologic Substance
+visual field testing|C0042825|Diagnostic Procedure
+diet light|C0419181|Therapeutic or Preventive Procedure
+osteoarthritis arthritis|C0029408|Disease or Syndrome
+shortness of breath|C0013404|Sign or Symptom
+oral anticoagulants|C0354604|Pharmacologic Substance
+spinal cord|C0153646|Neoplastic Process
+anakinra|C0245109|Amino Acid, Peptide, or Protein
+viral screening|C0419997|Therapeutic or Preventive Procedure
+interstitial fibrosis|C0240035|Disease or Syndrome
+keratoconjunctivitis sicca|C0022575|Disease or Syndrome
+skin manifestations|C0037285|Sign or Symptom
+rheumatoid disease|C0003873|Disease or Syndrome
+synovial fluid analysis|C0200648|Laboratory Procedure
+gastrointestinal toxicity|C1142499|Finding
+valve|C1704414|Medical Device
+livedo reticularis|C0085642|Disease or Syndrome
+intravenous infusions|C0021440|Therapeutic or Preventive Procedure
+varicella zoster|C0740380|Disease or Syndrome
+type iii hypersensitivity|C0020951|Disease or Syndrome
+displacement|C2347509|Phenomenon or Process
+connective tissue disease|C0009782|Disease or Syndrome
+sepsis|C0243026|Disease or Syndrome
+severity of symptoms|C1319166|Finding
+physical finding|C0311392|Finding
+hardening of the arteries|C0425680|Finding
+chronic infections|C0151317|Disease or Syndrome
+mmps|C0623362|Amino Acid, Peptide, or Protein
+felty syndrome|C0015773|Disease or Syndrome
+deep breathing|C1328799|Finding
+inflamed joints|C0574941|Finding
+range of motion|C0150220|Therapeutic or Preventive Procedure
+antagonists drugs|C0521880|Pharmacologic Substance
+boutonniere deformities|C0158476|Acquired Abnormality
+high resolution|C1719039|Laboratory Procedure
+muscle tenderness|C0240419|Sign or Symptom
+autoantibodies|C0004358|Immunologic Factor
+iv infusion|C0021440|Therapeutic or Preventive Procedure
+acute phase reactant|C0001347|Biologically Active Substance
+chelation therapy|C0007975|Therapeutic or Preventive Procedure
+articular disease|C0022408|Disease or Syndrome
+pain|C0030193|Sign or Symptom
+immunoglobulin m antibody|C1442155|Immunologic Factor
+adverse event|C0877248|Finding
+palmar erythema|C0014745|Finding
+early diagnosis|C0596473|Diagnostic Procedure
+myopathy|C0026848|Disease or Syndrome
+transforming growth factor beta|C0040690|Biologically Active Substance
+streptococcal infection|C0038395|Disease or Syndrome
+lower limb|C0153665|Neoplastic Process
+il 6 receptor|C0063717|Receptor
+azathioprine|C0004482|Pharmacologic Substance
+other therapies|C0418967|Therapeutic or Preventive Procedure
+joint fusion|C0003090|Disease or Syndrome
+remission induction|C0035052|Therapeutic or Preventive Procedure
+increased capillary permeability|C1382398|Finding
+upper gi|C0203057|Diagnostic Procedure
+joint instability|C0022410|Finding
+distraction|C1369039|Therapeutic or Preventive Procedure
+endocarditis|C0014118|Disease or Syndrome
+stimuli|C0234402|Phenomenon or Process
+anti cyclic citrullinated peptide|C1320283|Amino Acid, Peptide, or Protein
+folic acid antagonist|C0016411|Pharmacologic Substance
+granulomas|C0018188|Pathologic Function
+chronic hepatitis b|C0524909|Disease or Syndrome
+neutropenia|C0027947|Disease or Syndrome
+ability to grip|C0562125|Finding
+certolizumab pegol|C1872109|Pharmacologic Substance
+basilar invagination|C0032209|Congenital Abnormality
+tetracyclines|C1744619|Antibiotic
+chronic disease|C0008679|Disease or Syndrome
+il 8|C0079633|Amino Acid, Peptide, or Protein
+magnets therapy|C0695947|Therapeutic or Preventive Procedure
+vitamin d deficiency|C0042870|Disease or Syndrome
+tramadol|C0040610|Pharmacologic Substance
+aerobic exercise|C0001701|Therapeutic or Preventive Procedure
+lupus|C0409974|Disease or Syndrome
+pain relief|C0451615|Therapeutic or Preventive Procedure
+ischemic heart disease|C0151744|Disease or Syndrome
+cyclic citrullinated peptide|C1453915|Amino Acid, Peptide, or Protein
+alkaline phosphatase|C0002059|Amino Acid, Peptide, or Protein
+systemic symptoms|C2039684|Sign or Symptom
+influenza|C0021400|Disease or Syndrome
+tb exposure|C0149796|Finding
+chemokines|C0282554|Amino Acid, Peptide, or Protein
+bands|C0175723|Medical Device
+autoimmune diseases|C0004364|Disease or Syndrome
+pain management|C0002766|Therapeutic or Preventive Procedure
+manipulation|C0947647|Therapeutic or Preventive Procedure
+ultrasonography|C0041618|Diagnostic Procedure
+maintenance therapy|C0677908|Therapeutic or Preventive Procedure
+nausea or abdominal pain|C0151263|Sign or Symptom
+gouty tophi|C0221248|Acquired Abnormality
+systemic lupus erythematosus|C0024141|Disease or Syndrome
+connective tissue diseases|C0009782|Disease or Syndrome
+blocking|C0233660|Mental or Behavioral Dysfunction
+tense|C0233494|Mental or Behavioral Dysfunction
+nsaid treatment|C0746950|Therapeutic or Preventive Procedure
+flare|C1517205|Sign or Symptom
+nervous system abnormalities|C0497552|Congenital Abnormality
+effusion|C0013687|Pathologic Function
+alcohol consumption|C0001948|Individual Behavior
+atherosclerosis|C0004153|Disease or Syndrome
+exacerbated by|C0436331|Finding
+cardiac disease|C0018799|Disease or Syndrome
+acetaminophen|C0000970|Pharmacologic Substance
+warm autoimmune hemolytic anemia|C0272118|Disease or Syndrome
+anti inflammatory agents|C0003209|Pharmacologic Substance
+enlarged|C1293134|Therapeutic or Preventive Procedure
+intra articular injections|C0021488|Therapeutic or Preventive Procedure
+cbc with differential|C0545131|Laboratory Procedure
+skin symptoms|C0586407|Sign or Symptom
+fibrosis|C0016059|Pathologic Function
+urinary tract infection|C0042029|Disease or Syndrome
+juvenile idiopathic arthritis|C0553662|Disease or Syndrome
+autoimmune reaction|C0443146|Pathologic Function
+fatigue symptoms|C0439053|Sign or Symptom
+cell count|C0007584|Laboratory Procedure
+responsible|C1273518|Finding
+fc fragment|C0021032|Amino Acid, Peptide, or Protein
+overlap syndrome|C0410000|Disease or Syndrome
+curcumin|C0010467|Indicator, Reagent, or Diagnostic Aid
+massage|C0024875|Therapeutic or Preventive Procedure
+fatigue malaise|C0024528|Sign or Symptom
+myocardial infarction|C0027051|Disease or Syndrome
+hip replacement|C0392806|Therapeutic or Preventive Procedure
+splenomegaly|C0038002|Finding
+ankle replacement|C0188664|Therapeutic or Preventive Procedure
+angina syndrome|C0002962|Sign or Symptom
+anemia|C0002871|Disease or Syndrome
+tnf therapy|C0279936|Therapeutic or Preventive Procedure
+anorexia|C0003123|Disease or Syndrome
+depo medrol|C0057476|Pharmacologic Substance
+vaccination|C0042196|Therapeutic or Preventive Procedure
+acromioclavicular|C0695640|Therapeutic or Preventive Procedure
+nulliparous|C0425979|Finding
+salivary gland enlargement|C0020569|Pathologic Function
+metatarsal pad|C0461780|Medical Device
+monoarticular arthritis|C0746617|Disease or Syndrome
+macrophage activation syndrome|C1096155|Disease or Syndrome
+remission|C0544452|Finding
+gold|C0018026|Element, Ion, or Isotope
+chest pain|C0008031|Sign or Symptom
+pregnancy hypertension|C0565599|Disease or Syndrome
+work in|C0557351|Finding
+skin cancer melanoma|C0151779|Neoplastic Process
+nodular lesions|C1518345|Finding
+pneumococcal vaccine|C0358314|Pharmacologic Substance
+neck pain|C0007859|Sign or Symptom
+revision|C1527075|Therapeutic or Preventive Procedure
+biopsy needle|C0181960|Medical Device
+polyclonal hypergammaglobulinemia|C0154254|Disease or Syndrome
+corticosteroid|C0001617|Pharmacologic Substance
+specific antibody|C0443640|Amino Acid, Peptide, or Protein
+copper|C0009968|Biologically Active Substance
+green tea|C1704263|Organic Chemical
+wrist splint|C0728688|Medical Device
+lyme disease|C0024198|Disease or Syndrome
+heart failure|C0018801|Disease or Syndrome
+fish oil|C0016157|Biologically Active Substance
+knee replacements|C0086511|Therapeutic or Preventive Procedure
+vitamin d|C0042866|Pharmacologic Substance
+arthroplasty|C0003893|Therapeutic or Preventive Procedure
+combination therapy|C0009429|Therapeutic or Preventive Procedure
+bacterial rna|C0035692|Nucleic Acid, Nucleoside, or Nucleotide
+purified protein derivative|C0034131|Indicator, Reagent, or Diagnostic Aid
+stromelysin|C0164371|Amino Acid, Peptide, or Protein
+headache|C0018681|Sign or Symptom
+hepatotoxicity|C0235378|Injury or Poisoning
+blood lipids|C0596192|Lipid
+chronic pain|C0150055|Disease or Syndrome
+pharmacological treatment|C0013216|Therapeutic or Preventive Procedure
+traction treatment|C1562800|Therapeutic or Preventive Procedure
+extended release|C1707968|Biomedical or Dental Material
+early detection|C0596473|Diagnostic Procedure
+immunomodulators|C1527392|Immunologic Factor
+antirheumatic drug|C0003191|Pharmacologic Substance
+joints pain|C0003862|Sign or Symptom
+whipple disease|C0023788|Disease or Syndrome
+falls accidents|C0000924|Injury or Poisoning
+surgery knee|C0187769|Therapeutic or Preventive Procedure
+paresthesias|C0030554|Sign or Symptom
+diathermy|C0012002|Therapeutic or Preventive Procedure
+skin erythema|C0041834|Sign or Symptom
+synovial thickening|C0410574|Pathologic Function
+community acquired pneumonia|C0694549|Disease or Syndrome
+nodules subcutaneous|C0151811|Pathologic Function
+wrist x rays|C0203240|Diagnostic Procedure
+aspirin|C0004057|Pharmacologic Substance
+tenosynovitis|C0039520|Disease or Syndrome
+indomethacin|C0021246|Pharmacologic Substance
+muscle weakness|C0151786|Finding
+exposure to coal dust|C2220340|Finding
+myelopathy|C0037928|Disease or Syndrome
+interstitial nephritis|C0027707|Disease or Syndrome
+elevated cholesterol|C0020443|Disease or Syndrome
+fall|C0085639|Finding
+c reactive protein|C0006560|Amino Acid, Peptide, or Protein
+diabetes mellitus|C0011849|Disease or Syndrome
+periodontal infection|C0747479|Disease or Syndrome
+liver damage|C0151763|Pathologic Function
+interferon gamma release assays|C3178802|Laboratory Procedure
+activity level|C0683317|Finding
+native american|C0886378|Therapeutic or Preventive Procedure
+corneal opacity|C0010038|Finding
+ulnar deviation of the fingers|C0231679|Finding
+x rays|C1306645|Diagnostic Procedure
+gu symptoms|C0426317|Sign or Symptom
+systemic disease|C0442893|Disease or Syndrome
+human parvovirus|C1955655|Disease or Syndrome
+rheumatoid factor|C0035448|Amino Acid, Peptide, or Protein
+arch support|C0183685|Medical Device
+nabumetone|C0068334|Pharmacologic Substance
+movement therapy|C0454279|Therapeutic or Preventive Procedure
+interleukin 6|C0021760|Amino Acid, Peptide, or Protein
+methylprednisolone acetate|C0600901|Pharmacologic Substance
+antistreptolysin o titer|C1318462|Laboratory Procedure
+subluxation|C0332768|Injury or Poisoning
+antigen|C0003320|Immunologic Factor
+aspiration of joint|C0204854|Therapeutic or Preventive Procedure
+hydrocephaly|C0020255|Disease or Syndrome
+dissection|C0012737|Therapeutic or Preventive Procedure
+radiculopathy|C0700594|Disease or Syndrome
+inflamed joint|C0574941|Finding
+antimicrobial|C1136254|Pharmacologic Substance
+hyperprolactinemia|C0020514|Disease or Syndrome
+rashes|C0015230|Disease or Syndrome
+stomatitis|C0038362|Disease or Syndrome
+azulfidine en-tabs|C0699547|Pharmacologic Substance
+computed tomography|C0040405|Diagnostic Procedure
+monoclonal antibodies|C0003250|Immunologic Factor
+kidney problems|C0812426|Sign or Symptom
+vimentin|C0042666|Biologically Active Substance
+steroids|C0038317|Steroid
+color doppler ultrasound|C0474781|Diagnostic Procedure
+generalized weakness|C0004093|Sign or Symptom
+streptolysin o|C0075301|Biologically Active Substance
+thromboembolic events|C0857496|Pathologic Function
+serum complement|C2229614|Laboratory Procedure
+renal disease|C0022658|Disease or Syndrome
+disabling disease|C0596452|Disease or Syndrome
+worried|C0233481|Finding
+entrapment neuropathy|C1510429|Disease or Syndrome
+gait|C0016928|Finding
+albumin level|C0428519|Laboratory or Test Result
+rehabilitation|C0034991|Therapeutic or Preventive Procedure
+myelodysplastic syndrome|C0026986|Neoplastic Process
+conduction defects|C0264886|Disease or Syndrome
+sex hormones|C0036884|Pharmacologic Substance
+cytokines|C0079189|Amino Acid, Peptide, or Protein
+mask|C0024861|Medical Device
+whipple's disease|C0023788|Disease or Syndrome
+diffuse inflammation|C0391860|Sign or Symptom
+bacterial infections|C0004623|Disease or Syndrome
+magnetic resonance imaging|C0024485|Diagnostic Procedure
+polyarticular arthritis|C0694562|Disease or Syndrome
+sodium aurothiomalate|C0018034|Pharmacologic Substance
+recurrent bacterial infections|C1844383|Disease or Syndrome
+biosynthesis|C0220781|Biologic Function
+matrix metalloproteinase inhibitor|C1513016|Pharmacologic Substance
+dynamic splints|C0180570|Medical Device
+erythema|C0041834|Sign or Symptom
+neovascularization|C0027686|Pathologic Function
+mechanical irritation|C1302810|Injury or Poisoning
+vascularization|C0027686|Pathologic Function
+hand test|C0430763|Diagnostic Procedure
+adult onset|C1836537|Finding
+needle|C0027551|Medical Device
+body weight|C1305866|Diagnostic Procedure
+mononeuritis multiplex|C0151295|Disease or Syndrome
+antirheumatic drugs|C0003191|Pharmacologic Substance
+median nerve compression|C0007286|Disease or Syndrome
+injuries|C0175677|Injury or Poisoning
+multicentric reticulohistiocytosis|C0311284|Disease or Syndrome
+immunoglobulin fc|C0021032|Amino Acid, Peptide, or Protein
+acetaminophen - codeine|C2351132|Organic Chemical
+mixed connective tissue disease|C0026272|Disease or Syndrome
+difficulty|C1299586|Finding
+reconstructive surgery|C0524865|Therapeutic or Preventive Procedure
+withdrawal|C2825032|Mental or Behavioral Dysfunction
+total hip replacements|C0040508|Therapeutic or Preventive Procedure
+platelet derived growth factor|C0032200|Biologically Active Substance
+nodular hyperplasia|C0020510|Pathologic Function
+paraffin|C0030415|Lipid
+normal hand|C0578014|Finding
+swollen joints|C0152031|Sign or Symptom
+mhc class ii protein|C0019630|Amino Acid, Peptide, or Protein
+total knee replacement|C0086511|Therapeutic or Preventive Procedure
+fear of|C1961839|Finding
+distention|C0012359|Pathologic Function
+synovectomy|C0185304|Therapeutic or Preventive Procedure
+electroconvulsive therapy|C0013806|Therapeutic or Preventive Procedure
+long fingers|C1858091|Finding
+severe symptoms|C0436345|Finding
+regression|C0684320|Pathologic Function
+corticosteroids|C0001617|Pharmacologic Substance
+human immunoglobulin g|C2702333|Immunologic Factor
+dyspepsia|C0013395|Sign or Symptom
+hammer toes|C1136179|Anatomical Abnormality
+bone marrow abnormal|C0741594|Finding
+teratogenic effects|C0232910|Pathologic Function
+cell|C1704653|Medical Device
+boutonniere deformity|C0158476|Acquired Abnormality
+pleural effusions|C0032227|Disease or Syndrome
+immune state|C0020964|Finding
+active exercise|C0419117|Therapeutic or Preventive Procedure
+weight loss|C0043096|Finding
+tender pain|C0234233|Sign or Symptom
+preterm birth|C0151526|Pathologic Function
+energy conservation|C0150210|Individual Behavior
+swollen 28 joint count|C2711873|Finding
+interferon|C0021747|Pharmacologic Substance
+complementary and alternative medicine|C1148475|Therapeutic or Preventive Procedure
+exercise counseling|C0375886|Finding
+multiplanar reconstruction|C0445054|Therapeutic or Preventive Procedure
+stretching exercises|C0600080|Therapeutic or Preventive Procedure
+blood pressure|C1271104|Finding
+spinal cord compression|C0037926|Disease or Syndrome
+corticosteroid use|C0239126|Finding
+dna structure|C1511699|Nucleic Acid, Nucleoside, or Nucleotide
+cuff|C1706501|Medical Device
+rheumatoid nodulosis|C0035450|Pathologic Function
+immunosuppressive agents|C0021081|Pharmacologic Substance
+myositis|C0027121|Disease or Syndrome
+physiotherapy|C0949766|Therapeutic or Preventive Procedure
+hand splint|C0409162|Therapeutic or Preventive Procedure
+neck stiffness|C0151315|Sign or Symptom
+viral hepatitis|C0042721|Disease or Syndrome
+constrictive pericarditis|C0031048|Disease or Syndrome
+impaired renal function|C0341697|Disease or Syndrome
+apheresis|C0005791|Therapeutic or Preventive Procedure
+ulnar drift|C0231679|Finding
+dislocation|C0012691|Injury or Poisoning
+hla dr beta|C0019765|Pharmacologic Substance
+antibiotic therapy|C0338237|Therapeutic or Preventive Procedure
+systemic sclerosis|C0036421|Disease or Syndrome
+cervical spine instability|C0410652|Disease or Syndrome
+normochromic normocytic anemia|C0271899|Disease or Syndrome
+granulomatous inflammation|C0553697|Pathologic Function
+antagonist drugs|C0521880|Pharmacologic Substance
+hepatitis b|C0019163|Disease or Syndrome
+complete blood counts|C0009555|Laboratory Procedure
+radial deviation of the wrist|C0231675|Sign or Symptom
+imaging techniques|C0079595|Diagnostic Procedure
+myocarditis|C0027059|Disease or Syndrome
+regular exercise|C2243091|Therapeutic or Preventive Procedure
+atlantoaxial subluxation|C0263905|Anatomical Abnormality
+nervous|C0027769|Sign or Symptom
+equipment|C1523994|Medical Device
+bleeding heart|C1256202|Pharmacologic Substance
+imaging|C0079595|Diagnostic Procedure
+neurologic sequelae|C0746864|Finding
+minimizing pain|C0558256|Therapeutic or Preventive Procedure
+left ventricular failure|C0023212|Disease or Syndrome
+steroid therapy|C0149783|Therapeutic or Preventive Procedure
+paraffin baths|C0179240|Medical Device
+loss of weight|C0043096|Finding
+leukocytosis|C0750426|Finding
+substance addiction|C0038580|Mental or Behavioral Dysfunction
+performance|C0597198|Individual Behavior
+gastrointestinal irritation|C2697368|Disease or Syndrome
+hematocrit|C0018935|Laboratory Procedure
+human leukocyte antigen dr4|C0019774|Immunologic Factor
+fibrinogen|C0016006|Pharmacologic Substance
+antinuclear antibodies|C0003243|Amino Acid, Peptide, or Protein
+anemia of chronic disease|C0002873|Disease or Syndrome
+motor vehicle accidents|C0000932|Injury or Poisoning
+melanoma|C0025202|Neoplastic Process
+lack of physical activity|C0086439|Sign or Symptom
+acupuncture|C0394664|Therapeutic or Preventive Procedure
+tnf receptors|C0077503|Receptor
+belching|C0014724|Sign or Symptom
+stenosing tenosynovitis|C0158329|Disease or Syndrome
+clumsiness|C0233844|Sign or Symptom
+periosteal new bone formation|C1834344|Finding
+renal amyloidosis|C0268382|Disease or Syndrome
+pressure|C0033095|Phenomenon or Process
+generalized osteoporosis|C1850194|Finding
+false positives|C0205557|Laboratory or Test Result
+cyclooxygenase|C0033551|Amino Acid, Peptide, or Protein
+invasion|C2699153|Pathologic Function
+pharmacological treatments|C0013216|Therapeutic or Preventive Procedure
+il 2|C0021756|Amino Acid, Peptide, or Protein
+primary endpoint|C2986535|Indicator, Reagent, or Diagnostic Aid
+antibodies|C0003241|Immunologic Factor
+diclofenac topical gel|C1252196|Clinical Drug
+complement|C0009498|Amino Acid, Peptide, or Protein
+functional status|C0598463|Finding
+caplan's syndrome|C0006915|Disease or Syndrome
+force|C0441722|Phenomenon or Process
+abnormal test results|C0850610|Finding
+joint swelling|C0152031|Sign or Symptom
+topical agents|C1644713|Pharmacologic Substance
+coronary disease|C0010068|Disease or Syndrome
+thrombocytosis|C0836924|Disease or Syndrome
+gamma linolenic acid|C0061078|Pharmacologic Substance
+persistent anemia|C0741008|Disease or Syndrome
+adjunctive|C2825951|Therapeutic or Preventive Procedure
+absorption|C2347023|Phenomenon or Process
+mycobacterium tuberculosis infection|C0041296|Disease or Syndrome
+tocilizumab|C1609165|Immunologic Factor
+fatty acids|C0015684|Lipid
+ice packs|C0181264|Medical Device
+nerve entrapment|C0917811|Disease or Syndrome
+dihydroorotate dehydrogenase|C0058099|Amino Acid, Peptide, or Protein
+oxaprozin|C0069739|Pharmacologic Substance
+butterfly rash|C0277942|Finding
+autoimmune disorders|C0004364|Disease or Syndrome
+analgesics|C0002771|Pharmacologic Substance
+meclofenamate|C1289957|Organic Chemical
+pattern of joint involvement|C0427305|Disease or Syndrome
+oral contraceptives|C0009905|Pharmacologic Substance
+stroke|C0038454|Disease or Syndrome
+ankylosis|C0003090|Disease or Syndrome
+neurologic deficit|C0521654|Finding
+back pain|C0004604|Sign or Symptom
+maximum oxygen uptake|C0429693|Finding
+reporting laboratory|C0200370|Laboratory Procedure
+etanercept|C0717758|Pharmacologic Substance
+binding sites|C0005456|Receptor
+congestive heart failure|C0018802|Disease or Syndrome
+evening primrose|C0874067|Pharmacologic Substance
+melanoma skin cancer|C0151779|Neoplastic Process
+acute phase response|C0001349|Pathologic Function
+transducers|C0040661|Medical Device
+triamcinolone hexacetonide|C0077004|Pharmacologic Substance
+step width|C2019924|Finding
+abatacept|C1619966|Amino Acid, Peptide, or Protein
+decreased platelet|C0392386|Finding
+septic arthritis|C1692886|Disease or Syndrome
+lupus erythematosus|C0409974|Disease or Syndrome
+craniofacial abnormalities|C0376634|Congenital Abnormality
+insulin|C0021641|Pharmacologic Substance
+nodular scleritis|C0339194|Disease or Syndrome
+ibuprofen|C0020740|Pharmacologic Substance
+body mass index|C0005893|Diagnostic Procedure
+rapid onset|C1838994|Finding
+cervical subluxation|C1846798|Finding
+black currant|C0771400|Organic Chemical
+therapeutic exercise|C0452240|Therapeutic or Preventive Procedure
+baker cysts|C0032650|Acquired Abnormality
+protein|C0033684|Biologically Active Substance
+cured disease|C0679252|Finding
+health behaviors|C0018687|Individual Behavior
+muscle spasms|C0037763|Sign or Symptom
+modified release|C1709058|Biomedical or Dental Material
+joint aspiration|C0204854|Therapeutic or Preventive Procedure
+tendon rupture|C0151937|Injury or Poisoning
+creatinine levels|C0428279|Laboratory or Test Result
+association|C0596306|Phenomenon or Process
+periodic fever|C0015974|Disease or Syndrome
+systemic autoimmune disease|C2895206|Disease or Syndrome
+panniculitis|C0030326|Disease or Syndrome
+cytotoxic t lymphocyte-associated antigen-4|C0111208|Amino Acid, Peptide, or Protein
+flurbiprofen|C0016377|Pharmacologic Substance
+valvular disease|C3258293|Disease or Syndrome
+muscle function|C0517929|Finding
+tender 28 joint count|C2711398|Finding
+inflammatory arthritis|C0003864|Disease or Syndrome
+joint replacement|C0185317|Therapeutic or Preventive Procedure
+cancer|C0006826|Neoplastic Process
+infusion|C0574032|Therapeutic or Preventive Procedure
+function baseline|C0744226|Finding
+pathogenesis|C0699748|Pathologic Function
+bunion|C0006386|Acquired Abnormality
+osteoarthritis|C0029408|Disease or Syndrome
+bone marrow depression|C0151773|Disease or Syndrome
+homeostasis|C0019868|Biologic Function
+balance exercises|C0150219|Therapeutic or Preventive Procedure
+vitamin d receptor|C0108082|Receptor
+cancers ovarian|C0029925|Neoplastic Process
+recurrence|C0034897|Phenomenon or Process
+hepatic dysfunction|C0086565|Pathologic Function
+lung disease|C0024115|Disease or Syndrome
+keratitis|C0022568|Disease or Syndrome
+historical|C2004062|Finding
+other drugs|C2729346|Pharmacologic Substance
+colorectal cancers|C1527249|Neoplastic Process
+liver fibrosis|C0239946|Disease or Syndrome
+codeine|C0009214|Pharmacologic Substance
+eosinophilia|C0014457|Disease or Syndrome
+swelling|C0038999|Finding
+sputum examination|C0430356|Laboratory Procedure
+destruction|C1261381|Therapeutic or Preventive Procedure
+alleviate symptoms|C1274136|Therapeutic or Preventive Procedure
+pathology|C0919386|Laboratory Procedure
+hip surgery|C0596706|Therapeutic or Preventive Procedure
+negative rheumatoid factor|C0427391|Laboratory or Test Result
+il 1|C0021755|Amino Acid, Peptide, or Protein
+contraception|C0700589|Therapeutic or Preventive Procedure
+steroid use|C0281991|Individual Behavior
+fetal growth restriction|C0015934|Pathologic Function
+autoimmune reactions|C0443146|Pathologic Function
+disease control|C0920467|Therapeutic or Preventive Procedure
+dermatomyositis|C0011633|Disease or Syndrome
+erythrocyte sedimentation rate|C0086250|Laboratory Procedure
+edema|C0013604|Pathologic Function
+cervical spine disease|C1290145|Disease or Syndrome
+anti dna|C0282056|Amino Acid, Peptide, or Protein
+palpation|C0030247|Diagnostic Procedure
+activated t cells|C2174122|Laboratory Procedure
+new onset|C0746890|Finding
+loss of vision|C0456909|Disease or Syndrome
+tissue type|C0019633|Laboratory Procedure
+comfort measures|C0150521|Therapeutic or Preventive Procedure
+elements|C0013879|Element, Ion, or Isotope
+acute phase reactants|C0001347|Biologically Active Substance
+benzodiazepines|C0005064|Pharmacologic Substance
+tumor necrosis factor alpha blockers|C2170827|Organic Chemical
+physical therapies|C0949766|Therapeutic or Preventive Procedure
+childhood arthritis|C0553662|Disease or Syndrome
+lead|C0023175|Element, Ion, or Isotope
+popliteal cysts|C0032650|Acquired Abnormality
+cardiovascular problems|C0850760|Sign or Symptom
+celecoxib|C0538927|Pharmacologic Substance
+double stranded dna|C0311474|Biologically Active Substance
+occupational therapy treatment|C1318464|Therapeutic or Preventive Procedure
+confusion|C0009676|Mental or Behavioral Dysfunction
+transient ischemic attacks|C0007787|Disease or Syndrome
+renal failure|C0341697|Disease or Syndrome
+inactive disease|C0544452|Finding
+malignancy|C0006826|Neoplastic Process
+progressive disease|C1335499|Finding
+immune complexes|C0003313|Amino Acid, Peptide, or Protein
+pain disorder|C0391976|Mental or Behavioral Dysfunction
+anencephaly|C0002902|Congenital Abnormality
+hepatitis b core antibody|C0312631|Amino Acid, Peptide, or Protein
+noninflammatory|C0442743|Finding
+hla dr|C0019764|Amino Acid, Peptide, or Protein
+conjunctivitis|C0009763|Disease or Syndrome
+strengthening exercises|C0452260|Therapeutic or Preventive Procedure
+hyperplasia|C0020507|Pathologic Function
+atrophy|C0333641|Pathologic Function
+hypotension|C0020649|Finding
+iron|C0302583|Biologically Active Substance
+glucose levels|C0428548|Laboratory or Test Result
+patient died|C1306577|Finding
+balanitis circinata|C0275547|Disease or Syndrome
+kinases|C0031727|Amino Acid, Peptide, or Protein
+pass|C2828386|Finding
+diclofenac|C0012091|Pharmacologic Substance
+rheumatism|C0035435|Disease or Syndrome
+elevated ferritin|C0743912|Finding
+cox 2 inhibitor|C1257954|Pharmacologic Substance
+x ray|C1306645|Diagnostic Procedure
+penicillamine|C0030817|Pharmacologic Substance
+skin ulcers|C0037299|Disease or Syndrome
+amplification|C1521871|Phenomenon or Process
+indicator|C1704416|Medical Device
+golimumab|C2353893|Amino Acid, Peptide, or Protein
+balance|C0560184|Finding
+herbal medicines|C2240391|Pharmacologic Substance
+polyunsaturated fatty acids|C0032615|Lipid
+rheumatoidlike arthritis|C0597908|Disease or Syndrome
+normal results|C0459422|Finding
+tendon repair|C0565350|Therapeutic or Preventive Procedure
+elevated c-reactive protein|C2216280|Finding
+hyperemesis|C0235250|Sign or Symptom
+glasses|C0015421|Medical Device
+vaccines|C0042210|Pharmacologic Substance
+angina|C0002962|Sign or Symptom
+autoimmune|C0443146|Pathologic Function
+cox 2 inhibitors|C1257954|Pharmacologic Substance
+aspirin free|C0718691|Pharmacologic Substance
+malaise and fatigue|C0024528|Sign or Symptom
+tnf alpha|C0041368|Amino Acid, Peptide, or Protein
+patient examined|C0420616|Finding
+class ii histocompatibility antigens|C0019630|Amino Acid, Peptide, or Protein
+discomfort|C0234215|Sign or Symptom
+dependence|C0439857|Mental or Behavioral Dysfunction
+fish oils|C0016157|Biologically Active Substance
+tuberculosis|C0041296|Disease or Syndrome
+hyperplastic|C0020507|Pathologic Function
+tolerance|C0013220|Finding
+anti hbc|C0312631|Amino Acid, Peptide, or Protein
+testing - visual|C0042793|Diagnostic Procedure
+hallux valgus|C0018536|Anatomical Abnormality
+decreased range of motion|C0231589|Finding
+keratoderma blennorrhagicum|C0022594|Disease or Syndrome
+quadriplegia|C0034372|Disease or Syndrome
+rubella|C0035920|Disease or Syndrome
+biological agents|C2979985|Pharmacologic Substance
+vitamins|C0042890|Vitamin
+intervention|C1948041|Therapeutic or Preventive Procedure
+tenosynovectomy|C0185306|Therapeutic or Preventive Procedure
+tumor necrosis factors|C0041368|Amino Acid, Peptide, or Protein
+rhubarb|C0304561|Pharmacologic Substance
+anginal pain|C0002962|Sign or Symptom
+blood test|C0018941|Laboratory Procedure
+injection site|C0221208|Injury or Poisoning
+antigens|C0003320|Immunologic Factor
+igm rheumatoid factor|C0487459|Amino Acid, Peptide, or Protein
+capsule|C0006935|Biomedical or Dental Material
+cardiac insufficiency|C0018801|Disease or Syndrome
+redness|C0332575|Finding
+slow disease progression|C1854494|Finding
+life threatening|C2826244|Finding
+rheumatoid nodule|C0035450|Pathologic Function
+joint injury|C0409497|Injury or Poisoning
+live vaccines|C0042211|Pharmacologic Substance
+night pain|C0234255|Sign or Symptom
+latex agglutination|C0023117|Laboratory Procedure
+reactive arthritis|C0085435|Disease or Syndrome
+hepatitis b reactivation|C1142420|Disease or Syndrome
+osteopenia|C0029453|Pathologic Function
+biologic therapy|C0005527|Therapeutic or Preventive Procedure
+genu valgus|C0576093|Anatomical Abnormality
+asymptomatic|C0231221|Finding
+interleukin 1|C0021755|Amino Acid, Peptide, or Protein
+serum glucose|C0202041|Laboratory Procedure
+serologic tests|C0036743|Laboratory Procedure
+normal erythrocyte sedimentation rate|C0427682|Finding
+pregnancy normal|C0232989|Finding
+iron deficiency anemia|C0162316|Disease or Syndrome
+hardened arteries|C0425680|Finding
+blood loss|C0019080|Pathologic Function
+nail changes|C0234909|Finding
+magnetic resonance imaging scan|C0024485|Diagnostic Procedure
+dyspnea|C0013404|Sign or Symptom
+joint problems|C0575044|Finding
+abnormal liver function|C0086565|Pathologic Function
+autoimmune process|C0443146|Pathologic Function
+zoster vaccine|C1720918|Immunologic Factor
+gonococcal arthritis|C0153216|Disease or Syndrome
+retinopathy|C0035309|Disease or Syndrome
+low white blood cell count|C0948695|Finding
+urethritis|C0041976|Disease or Syndrome
+hypogammaglobulinemia|C0086438|Disease or Syndrome
+latent tuberculosis|C1609538|Disease or Syndrome
+fibroblast growth factor|C0016026|Biologically Active Substance
+creatinine level|C0428279|Laboratory or Test Result
+fenoprofen|C0015837|Pharmacologic Substance
+inflammation joints|C0003864|Disease or Syndrome
+therapeutic agents|C1611640|Pharmacologic Substance
+skin ulceration|C0037299|Disease or Syndrome
+serology test|C0036743|Laboratory Procedure
+skin lesions|C0037284|Disease or Syndrome
+analgesia|C0002766|Therapeutic or Preventive Procedure
+gastrointestinal|C1559265|Finding
+emotional|C0849912|Finding
+cyclosporine|C0010592|Pharmacologic Substance
+killed vaccines|C0042212|Pharmacologic Substance
+full blood count|C0009555|Laboratory Procedure
+reiter's disease|C0035012|Disease or Syndrome
+prednisolone|C0032950|Pharmacologic Substance
+herpes zoster|C0019360|Disease or Syndrome
+chronic inflammation|C0021376|Pathologic Function
+contracture|C0009917|Acquired Abnormality
+tissue damage|C0010957|Injury or Poisoning
+enteric coated tablets|C0039226|Biomedical or Dental Material
+quality of life|C0518214|Finding
+small molecules|C1328819|Organic Chemical
