@@ -1,3 +1,2 @@
 # Personal Useful Tools
-R
-Python
+This repo serves as a toolbox for data scientist.

@@ -77,3 +77,12 @@ git push --force --tags origin HEAD:master
 pip3 install git+git://github.com/fchollet/keras.git --upgrade --no-deps
 ```
 
+### Sync forked repo from original repo
+
+```
+git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+git fetch upstream
+git pull upstream master
+```
+
