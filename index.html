@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Awesome R Toolbox for Data Scientists</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- FontAwesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/prism/prism.css">
+    <link rel="stylesheet" href="assets/plugins/elegant_font/css/style.css">
+
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+
+</head>
+
+<body class="body-green">
+<div class="page-wrapper">
+    <!-- ******Header****** -->
+    <header id="header" class="header">
+        <div class="container">
+            <div class="branding">
+                <h1 class="logo">
+                    <a href="index.html">
+                        <span aria-hidden="true" class="icon_documents_alt icon"></span>
+                        <span class="text-highlight">R </span><span class="text-bold">Toolbox</span>
+                    </a>
+                </h1>
+
+            </div><!--//branding-->
+
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="https://github.com/shiyinw/r_toolbox">Github Repository</a></li>
+            </ol>
+
+        </div><!--//container-->
+    </header><!--//header-->
+    <div class="doc-wrapper">
+        <div class="container">
+            <div id="doc-header" class="doc-header text-center">
+                <div class="meta"><i class="far fa-clock"></i> Last updated: July 29th, 2019</div>
+            </div><!--//doc-header-->
+
+            <div class="doc-body row">
+                <div class="doc-content col-md-9 col-12 order-1">
+                    <div class="content-inner">
+
+                        <section id="code-section" class="doc-section">
+                            <h2 class="section-title">Basic</h2>
+
+                            <div id="dataformat" class="section-block">
+                                <h3>Data Format</h3>
+                                <div class="code-block">
+                                    <h6>Integer</h6>
+                                    <pre><code class="language-python">x = 1L #整型,便于和其他语言之间衔接</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>True/ False</h6>
+                                    <pre><code class="language-python">TRUE
+T
+FALSE
+F</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Special Values</h6>
+                                    <pre><code class="language-python">Inf
+NA
+NaN #not a number
+3/0</code></pre>
+                                </div><!--//code-block-->
+                            </div><!--//section-block-->
+                            <div id="datastructure" class="section-block">
+                                <h3>Data Structure</h3>
+                                <div class="code-block">
+                                    <h6>Vector</h6>
+                                    <pre><code class="language-css">c(9,4,3)
+vector("logical", 10)
+vector("complex", 10)
+vector("integer", 10)
+seq(1, 5, 2) #seq(from, to, by, length.out)  length.out表示均匀地取出若干个数
+seq(1,5,,9)
+rep(1:20,, 10, ) #rep(..., times, length.out, each)
+rep(1:2, 10, 9, )
+x = 100
+is.complex(x)  #查数据类型
+as.complex(x)  #数据类型转换
+as.character(90.9L)
+as.integer(-5.5)
+as.integer(5.8)
+# round up to 0
+(1:8)*(1:3) #逐次乘，按元素操作，短的会被循环
+(1:8)^5 #vector-scalar : a special case of the vector-vector operation</code></pre>
+                                </div><!--//code-block-->
+
+                                <div class="code-block">
+                                    <h6>Factor</h6>
+                                    <pre><code class="language-css">mycolor<-factor(c("R","G","G","R","B"),levels =c("R","G","B"),labels=c("RED","GREEN","BLUE"))</code></pre>
+                                </div><!--//code-block-->
+
+                                <div class="code-block">
+                                    <h6>Matrix</h6>
+                                    <pre><code class="language-css"># matrix(data, nrow, ncol, byrow, dimnames = list(rownames, colnames))
+m = matrix(c(1,2,3,3,0,9,0,8,4), 3, 3)
+solve(m) # inverse
+diag(m) # diagonal
+t(m) # transpose
+A = matrix(1:4,2,2)
+b=c(1,2)
+A%*%b #矩阵乘法
+A*b #数乘
+b*A
+t(b)%*%A
+t(b)*A</code></pre>
+                                </div><!--//code-block-->
+
+
+                            </div><!--//section-block-->
+                            <div id="readsave" class="section-block">
+                                <h3>Read & Save</h3>
+                                <div class="code-block">
+                                    <h6>csv</h6>
+                                    <pre><code class="language-r">df = read.csv("./data/example-utf8.txt", fileEncoding = "UTF-8", stringsAsFactors = FALSE, dec = '.') #dec:decimal
+head(df)
+summary(df)</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>txt</h6>
+                                    <pre><code class="language-r">df = read.delim("./data/RA_concepts.txt", sep = "|", header = TRUE)
+head(df)
+summary(df)</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Excel</h6>
+                                    <pre><code class="language-r">library("xlsx")
+x = xlsx::read.xlsx2("./data/÷–“Ω≤°¿˙.xlsx", sheetIndex=1)
+
+library(readxl)
+# Read all Excel sheets with lapply(): pop_list
+my_workbook <- lapply(excel_sheets("./data/÷–“Ω≤°¿˙.xlsx"), read_excel, path = "./data/÷–“Ω≤°¿˙.xlsx")
+# Display the structure of pop_list
+str(my_workbook)</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Search</h6>
+                                    <pre><code class="language-r">df[which.max(df$Code),] #注意后面有逗号
+which.min(df$Code)</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Edit</h6>
+                                    <pre><code class="language-r"># Edit the colClasses argument to import the data correctly: hotdogs2
+hotdogs2 <- read.delim("./data/RA_concepts.txt", header = FALSE,
+                       col.names = c("type", "calories", "sodium"),
+                       colClasses = c("factor", "NULL", "numeric")) #注意NULL也需要打引号
+# Display structure of hotdogs2
+str(df)</code></pre>
+                                </div><!--//code-block-->
+
+                                <div class="code-block">
+                                    <h6>Write</h6>
+                                    <pre><code class="language-r">write.table(df, file = "./data/test.csv", quote = FALSE, sep = '\t', col.names = c("A","B","C"))
+
+sink("output.txt")  #在命令行中打，就是把print的结果都输出到output.txt中
+print("Hello")
+sink()  #重新在terminal中输出</code></pre>
+                                </div><!--//code-block-->
+
+                                <div class="code-block">
+                                    <h6>Encoding</h6>
+                                    <pre><code class="language-r">junk = read.delim("./data/RA_concepts.txt", nrows = 10, sep = "|")
+classes <- sapply(junk, class)
+classes
+data <- read.delim("./data/RA_concepts.txt", colClasses = classes, sep = '|')
+head(data)
+
+library("readr") # readr: automatically get the encoding of a file
+dat = readr::read_delim("./data/RA_concepts.txt", delim=',')
+readr::guess_encoding("./data/RA_concepts.txt")</code></pre>
+                                </div><!--//code-block-->
+                            </div><!--//section-block-->
+                            <div id="package" class="section-block">
+                                <h3>Package</h3>
+                                <div class="code-block">
+                                    <pre><code class="language-r">install.packages("ggplot2")
+update.packages("ggplot2")
+library("ggplot2")
+?read.delim # read the docs
+dir("class files")  #files in the current working directory</code></pre>
+                                </div><!--//code-block-->
+                            </div><!--//section-block-->
+                            <div id="function" class="section-block">
+                                <h3>Function</h3>
+                                <div class="code-block">
+                                    <h6>Basic Function</h6>
+                                    <pre><code class="language-r">my.plot = function(dev, file, w, h, ...){
+    do.call(dev, list(file, w, h))
+    plot(...)
+    dev.off()
+}
+my.plot("pdf", "junk.pdf", 5, 3, sin, 0, 2*pi, main = "The Sine Function")
+# main是标题</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>... Argument</h6>
+                                    <pre><code class="language-r">powered.sum = function(..., power = 2){
+    a = c(...)
+    return (sum(a^power))
+}
+powered.sum(1, 3, 5:7, power = 3) #需要在输入中specify power</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Plot Function</h6>
+                                    <pre><code class="language-r">score = c(1,2,3,1,2,5,1,2,78)
+fn = ecdf(score)  #empirical cdf
+plot(fn, main = "Empirical CDF")</code></pre>
+                                </div><!--//code-block-->
+                                <div class="code-block">
+                                    <h6>Iteration</h6>
+                                    <pre><code class="language-r">a = runif(10)  #rodom numbers
+yes = c("A", "B", "C")
+no = c("a", "b", "c")
+a
+ifelse(a>0.5, yes, no)</code></pre>
+                                </div><!--//code-block-->
+                            </div><!--//section-block-->
+
+                        </section><!--//doc-section-->
+
+
+                    </div><!--//content-inner-->
+                </div><!--//doc-content-->
+                <div class="doc-sidebar col-md-3 col-12 order-0 d-none d-md-flex">
+                    <div id="doc-nav" class="doc-nav">
+
+                        <nav id="doc-menu" class="nav doc-menu flex-column sticky">
+                            <a class="nav-link scrollto" href="#basic-section">Basic</a>
+                            <nav class="doc-sub-menu nav flex-column">
+                                <a class="nav-link scrollto" href="#dataformat">Data Format</a>
+                                <a class="nav-link scrollto" href="#datastructure">Data Structure</a>
+                                <a class="nav-link scrollto" href="#readsave">Read & Save</a>
+                                <a class="nav-link scrollto" href="#package">Packages</a>
+                                <a class="nav-link scrollto" href="#function">Function</a>
+                            </nav><!--//nav-->
+                        </nav><!--//doc-menu-->
+
+                    </div>
+                </div><!--//doc-sidebar-->
+            </div><!--//doc-body-->
+        </div><!--//container-->
+    </div><!--//doc-wrapper-->
+
+    <div id="promo-block" class="promo-block">
+        <div class="container">
+            <div class="promo-block-inner">
+                <h3 class="promo-title text-center"><i class="fas fa-heart"></i> <a href="https://themes.3rdwavemedia.com/bootstrap-templates/portfolio/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">Are you an ambitious and entrepreneurial developer?</a></h3>
+                <div class="row">
+                    <div class="figure-holder col-lg-5 col-md-6 col-12">
+                        <div class="figure-holder-inner">
+                            <a href="https://themes.3rdwavemedia.com/bootstrap-templates/portfolio/instance-bootstrap-portfolio-theme-for-developers/" target="_blank"><img class="img-fluid" src="assets/images/demo/instance-promo.jpg" alt="Instance Theme" /></a>
+                            <a class="mask" href="https://themes.3rdwavemedia.com/bootstrap-templates/portfolio/instance-bootstrap-portfolio-theme-for-developers/"><i class="icon fa fa-heart pink"></i></a>
+
+                        </div>
+                    </div><!--//figure-holder-->
+                    <div class="content-holder col-lg-7 col-md-6 col-12">
+                        <div class="content-holder-inner">
+                            <div class="desc">
+                                <h4 class="content-title"><strong> Instance - Bootstrap 4 Portfolio Theme for Aspiring Developers</strong></h4>
+                                <p>Check out <a href="https://themes.3rdwavemedia.com/bootstrap-templates/portfolio/instance-bootstrap-portfolio-theme-for-developers/" target="_blank">Instance</a> - a Bootstrap personal portfolio theme I created for developers. The UX design is focused on selling a developer’s skills and experience to potential employers or clients, and has <strong class="highlight">all the winning ingredients to get you hired</strong>. It’s not only a HTML site template but also a marketing framework for you to <strong class="highlight">build an impressive online presence with a high conversion rate</strong>. </p>
+                                <p><strong class="highlight">[Tip for developers]:</strong> If your project is Open Source, you can use this area to promote your other projects or hold third party adverts like Bootstrap and FontAwesome do!</p>
+                                <a class="btn btn-cta" href="https://themes.3rdwavemedia.com/bootstrap-templates/portfolio/instance-bootstrap-portfolio-theme-for-developers/" target="_blank"><i class="fas fa-external-link-alt"></i> View Demo</a>
+
+                            </div><!--//desc-->
+
+
+                            <div class="author"><a href="https://themes.3rdwavemedia.com">Xiaoying Riley</a></div>
+                        </div><!--//content-holder-inner-->
+                    </div><!--//content-holder-->
+                </div><!--//row-->
+            </div><!--//promo-block-inner-->
+        </div><!--//container-->
+    </div><!--//promo-block-->
+
+</div><!--//page-wrapper-->
+
+<footer id="footer" class="footer text-center">
+    <div class="container">
+        <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+        <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com/" target="_blank">Xiaoying Riley</a> for developers</small>
+
+    </div><!--//container-->
+</footer><!--//footer-->
+
+
+<!-- Main Javascript -->
+<script type="text/javascript" src="assets/plugins/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/plugins/prism/prism.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="assets/plugins/stickyfill/dist/stickyfill.min.js"></script>
+<script type="text/javascript" src="assets/js/main.js"></script>
+
+</body>
+</html> 
+
